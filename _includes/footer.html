@@ -6,11 +6,13 @@
     <div>
       <div class="moduletable blockListStyle footerSocial">
         <ul class="weblinks blockListStyle footerSocial">
+          {% for network in site.data.social %}
           <li>
-            <a href="#" target="_blank" rel="nofollow" class="facebook siteSocialLink">
-              <span> Facebook</span>
+            <a href="{{ network.url }}" target="_blank" rel="nofollow" class="facebook siteSocialLink">
+              <span> {{ network.network }}</span>
             </a>
           </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
