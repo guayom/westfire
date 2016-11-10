@@ -11,3 +11,17 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+#collections
+collections:
+  artistas:
+    layout: artist
+    permalink: /artistas/:path/
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: artistas
+    values:
+      layout: artist
