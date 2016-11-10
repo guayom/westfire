@@ -9,6 +9,14 @@ url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+social:
+  - network: facebook
+    url: "https://www.facebook.com/westfirerecords"
+  - network: instagram
+    url: "https://www.instagram.com/westfirerecords/"
+  - network: youtube
+    url: "https://www.youtube.com/channel/UCwlBb2u2CRou-q5zIcrOH7Q"
+
 # Build settings
 markdown: kramdown
 
