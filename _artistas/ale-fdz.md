@@ -8,11 +8,10 @@ imagen: !ruby/object:Dato::Local::FieldType::Image
   height: 558
 email: westfirerecords@gmail.com
 instagram: http://instagram.com/ale_fdz/
-facebook:
+facebook: 
 twitter: https://twitter.com/AleFdzz_
-youtube:
-bandcamp:
-layout: artist 
+youtube: 
+bandcamp: 
 ---
 
 <p>
