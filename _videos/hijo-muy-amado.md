@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/ttBEZzyy3Lk/hqdefault.jpg
 permalink: "/videos/hijo-muy-amado"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c318738>
+#<Dato::Local::FieldType::Video:0x007f941f1d20a8>

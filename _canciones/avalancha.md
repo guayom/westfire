@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *123
+album: Fuego
 lyrics: "<p><span>Nos abrazó, nos llena de calor, nos abre el mundo </span></p><p>y
   el mar se calma</p><p>Nos envolvió, como una avalancha, un estruendo, </p><p>no
   estamos solos </p><p>Llévame, bajo tus alas, nada nos va a pasar </p><p>Enciendes
@@ -2939,6 +2939,6 @@ chords: "<p><span>Intro: Am  Cadd11  C</span></p><p> Am              Cadd11    C
   una avalancha, como un estruendo </p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/avalancha/avalancha"
+permalink: "/fuego/fuego/avalancha"
 ---
 

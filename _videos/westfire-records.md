@@ -12,7 +12,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/MNrg8Y1lP4c/hqdefault.jpg
 permalink: "/videos/westfire-records"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c839af0>
+#<Dato::Local::FieldType::Video:0x007f941ea91460>

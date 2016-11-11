@@ -2923,7 +2923,7 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p><span>Quiero llegar a ver tu rostro</span></p><p>Ver tu amor llenar el
   vacío en mi alma </p><p>Ven a enterrar mis pecados en el mar</p><p>Veo tu reino
   bajar y el mundo espera</p><p>Hoy empezamos el viaje a la eternidad</p><p>Los océanos
@@ -2936,6 +2936,6 @@ lyrics: "<p><span>Quiero llegar a ver tu rostro</span></p><p>Ver tu amor llenar 
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/el-viaje-a-la-eternidad/el-viaje-a-la-eternidad"
+permalink: "/ale-fdz/fracciones-de-luz/el-viaje-a-la-eternidad"
 ---
 

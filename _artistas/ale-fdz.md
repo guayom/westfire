@@ -14,6 +14,7 @@ youtube:
 bandcamp: 
 layout: artist
 permalink: "/ale-fdz/"
+thumbnail: https://dato-images.imgix.net/489/1478088543-Ale_2.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
 ---
 
 <p>

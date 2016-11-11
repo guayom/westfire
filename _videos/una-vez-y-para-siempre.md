@@ -2934,7 +2934,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/2EKGeziGWhg/hqdefault.jpg
 permalink: "/videos/una-vez-y-para-siempre"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c328930>
+#<Dato::Local::FieldType::Video:0x007f941f1e2958>

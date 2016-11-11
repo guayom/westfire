@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *121
+album: Abba
 lyrics: "<p>No necesito nada más que tu amor,</p><p>no necesito nada más que tu amor</p><p>Pues
   somos tus hijos y ya no hay temor, </p><p>no hay nada mejor que tu amor, </p><p>no
   hay nada mejor  que tu amor </p><p>Coro:</p><p>Te adoraré por todos los tiempos</p><p>Te
@@ -2942,6 +2942,6 @@ chords: "<p>Intro: C   G   D</p><p>                C                 G          
   a cantarte, que tu reino baje</span></p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/te-adorare/te-adorare"
+permalink: "/fuego/abba/te-adorare"
 ---
 

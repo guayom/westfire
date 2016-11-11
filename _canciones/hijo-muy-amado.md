@@ -2922,7 +2922,7 @@ artista: &77 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *119
+album: Identidad
 lyrics: "<p><span>Yo soy, quién tu dices que soy</span></p><p>Yo soy, tu hijo muy
   amado</p><p>los errores del pasado, no me definen mas</p><p>Tu eres mi futuro, y
   mi eternidad</p><p>Miro, miro hacia adelante </p><p>Mi presente y mi futuro en tus
@@ -2936,6 +2936,6 @@ chords: "<p><span>Am7             D</span></p><p>Yo soy, quién tu dices que soy
   Padre</p>"
 descargable: 
 layout: cancion
-permalink: "/geancarlo-calderon/hijo-muy-amado/hijo-muy-amado"
+permalink: "/geancarlo-calderon/identidad/hijo-muy-amado"
 ---
 

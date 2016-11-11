@@ -2923,7 +2923,7 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p><span>Nos deslizamos al fondo</span></p><p>Desenterramos tesoros que dominaban</p><p>Nuestras
   almas y el corazón</p><p>Conquistamos el sol</p><p>Y no encontramos lo que todos
   hablaban</p><p>Regresamos perdidos y solos</p><p>Se que puede ser perfecto su amor,
@@ -2935,6 +2935,6 @@ lyrics: "<p><span>Nos deslizamos al fondo</span></p><p>Desenterramos tesoros que
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/su-amor/su-amor"
+permalink: "/ale-fdz/fracciones-de-luz/su-amor"
 ---
 

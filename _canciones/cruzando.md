@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *123
+album: Fuego
 lyrics: "<p>Enséñame a vivir paso a paso </p><p>a ser feliz con lo que me has rodeado
   </p><p>y a siempre perseguir la verdad</p><p>Voy cruzando el desierto </p><p>hacia
   el lugar que has preparado </p><p>voy caminando y me sostiene tu amor por mi </p><p>Llegaremos,
@@ -2949,6 +2949,6 @@ chords: "<p><span>Intro: G  Asus2  A/F#  G</span></p><p>G      Asus2            
   \                    Asus2</p><p>Refresca mi alma ven, eres bienvenido aquí</p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/cruzando/cruzando"
+permalink: "/fuego/fuego/cruzando"
 ---
 

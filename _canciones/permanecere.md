@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *121
+album: Abba
 lyrics: "<p>Permaneceré en ti ,   y tu permanecerás en mi</p><p>Porque nada se compara
   al calor de tu amor</p><p>Tu amor llega a los cielos, más profundo que el mar </p><p>tu
   amor llega a mi vida y me trae libertad</p><p>Creador del cielo y tierra, levántate
@@ -2946,6 +2946,6 @@ chords: "<p><span>Intro: Fmaj7  C  Fmaj7  C  G</span></p><p>Fmaj7               
   por tu sangre somos libres hoy</p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/permanecere/permanecere"
+permalink: "/fuego/abba/permanecere"
 ---
 

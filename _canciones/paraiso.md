@@ -2923,7 +2923,7 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p><span>La tierra paró de temblar</span></p><p>Allá en la montaña brillaba,</p><p>La
   lluvia cae y el aire refrescaba</p><p>Veo una nube bajar</p><p>Un nuevo mensaje
   llegaba</p><p>Y encontramos paz y esperanza</p><p>Uuuh, me abres los ojos y estamos</p><p>En
@@ -2937,6 +2937,6 @@ lyrics: "<p><span>La tierra paró de temblar</span></p><p>Allá en la montaña b
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/paraiso/paraiso"
+permalink: "/ale-fdz/fracciones-de-luz/paraiso"
 ---
 

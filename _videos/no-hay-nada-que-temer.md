@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/giBMM70DywQ/hqdefault.jpg
 permalink: "/videos/no-hay-nada-que-temer"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c81aab0>
+#<Dato::Local::FieldType::Video:0x007f941f171f78>

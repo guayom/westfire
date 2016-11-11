@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/BMA9r74Gd6w/hqdefault.jpg
 permalink: "/videos/buenos-regalos"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd179fe2160>
+#<Dato::Local::FieldType::Video:0x007f941f14ae28>

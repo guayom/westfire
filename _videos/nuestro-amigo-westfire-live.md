@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/GyiImDQzFhU/hqdefault.jpg
 permalink: "/videos/nuestro-amigo-westfire-live"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c302fa0>
+#<Dato::Local::FieldType::Video:0x007f941eaa1900>

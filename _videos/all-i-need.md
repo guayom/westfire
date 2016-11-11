@@ -2934,7 +2934,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: _PpihkErIxE
 layout: video
+thumbnail: https://i.ytimg.com/vi/_PpihkErIxE/hqdefault.jpg
 permalink: "/videos/all-i-need"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd179ff1318>
+#<Dato::Local::FieldType::Video:0x007f941f153b68>

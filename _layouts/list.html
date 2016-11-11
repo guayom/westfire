@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="page-header">
+      <h1 class="inner-section-title">{{page.title}}</h1>
+  </div>
+  <div class="items clearfix">
+    <ul class="items_list clearfix">
+      <div class='row'>
+        {% case page.title %}
+          {% when 'Artistas' %}
+             {% assign collection = site.artistas %}
+          {% when 'Álbums' %}
+            {% assign collection = site.albums %}
+          {% when 'Vídeos' %}
+            {% assign collection = site.videos %}
+        {% endcase %}
+        {% for item in collection %}
+          {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
+          {% include item.html image=item.thumbnail title=item.title link=item.url %}
+          {% if modulo == "0" %}
+            {% include row-end.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

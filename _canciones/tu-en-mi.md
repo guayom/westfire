@@ -2922,7 +2922,7 @@ artista: &77 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *119
+album: Identidad
 lyrics: "<p><span>De que me sirven estos ojos, si no te pueden ver</span></p><p>De
   que me sirven estas manos, si no te puedo tocar</p><p>Lo que anhelo es tu gloria
   aqui</p><p>Lo que anhelo es tu amor cerca de mi</p><p>Tu en mi, yo en ti</p><p>Que
@@ -2948,6 +2948,6 @@ chords: "<p><span>Intro.    F#9/G#      Cm#sus       E9/F#</span></p><p>F#9/G#  
   mi, cerca de mi</p>"
 descargable: 
 layout: cancion
-permalink: "/geancarlo-calderon/tu-en-mi/tu-en-mi"
+permalink: "/geancarlo-calderon/identidad/tu-en-mi"
 ---
 

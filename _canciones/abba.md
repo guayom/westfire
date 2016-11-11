@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *121
+album: Abba
 lyrics: "<p><span>Celestial, nada es mas grande,</span></p><p>reinarás por toda la
   eternidad</p><p>Sé que estás -----  a mi lado,</p><p>caminando, por toda una eternidad</p><p>Coro:</p><p>Abba
   Padre, Abba</p><p>me recibiste, Abba</p><p>Gracias Padre pertenezco a Ti, ven aquí</p><p>Puente:</p><p>Tu

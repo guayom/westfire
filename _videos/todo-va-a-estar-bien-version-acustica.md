@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/aKhX7pPscJo/hqdefault.jpg
 permalink: "/videos/todo-va-a-estar-bien-version-acustica"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c8097b0>
+#<Dato::Local::FieldType::Video:0x007f941f160fe8>

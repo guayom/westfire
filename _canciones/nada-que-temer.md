@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *121
+album: Abba
 lyrics: "<p><span>Mis temores se van, mis heridas se van</span></p><p>hay un fuego
   en mi alma que no se apaga</p><p>hoy estas acá</p><p>Coro:</p><p>No hay nada que
   temer, </p><p>no hay nada que temer</p><p>hoy estás acá</p><p>Abres los mares ,
@@ -2938,6 +2938,6 @@ chords: "<p><span>ntro: G  G  Em  C  G</span></p><p>G</p><p>Mis temores se van, 
   veo tus ángeles cantando</p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/nada-que-temer/nada-que-temer"
+permalink: "/fuego/abba/nada-que-temer"
 ---
 

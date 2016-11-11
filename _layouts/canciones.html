@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="page-header">
+      <h1 class="inner-section-title">{{page.title}}</h1>
+  </div>
+  <div class="items clearfix">
+    <ul class="items_list clearfix">
+      <div class='row'>
+        {% for album in site.albums %}
+          {% assign canciones = site.canciones | where: "album", album.title %}
+          {% assign loopindex = forloop.index | modulo: 2 %}
+          {% unless canciones.size == 0 %}
+            <div class="album_container span6">
+              <div class="row-fluid">
+                <div class="album_cover span6">
+                    <img src="{{album.thumbnail_canciones}}" alt='{{album.title}} - {{album.artista}}'>
+                </div>
+                <div class="album_info_container span6">
+                  <h1>{{album.title}}</h1>
+                  <ul>
+                    {% for cancion in canciones %}
+                        <li>
+                          <a href="{{cancion.url}}">{{cancion.title}}</a>
+                        </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          {% endunless %}
+          {% if loopindex == 2 %}
+            </div>
+            <div class="row">
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

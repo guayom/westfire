@@ -2922,7 +2922,7 @@ artista: &77 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *119
+album: Identidad
 lyrics: "<p><span>Escucha la canción del cielo</span></p><p>Dice: Gloria al Salvador</p><p>Y
   los angeles que dicen: Solo a El cantamos</p><p>La Gloria sea al Rey</p><p>Levántense
   Oh puertas!</p><p>Puertas eternas, Abranse</p><p>Que el Rey de Gloria pueda entrar</p><p>Quién
@@ -2935,6 +2935,6 @@ chords: "<p><span>G -  Am – Bm7 -  C</span></p><p>Escucha la canción del ciel
   y poderoso</p><p>Señor victorioso en batalla</p><p>Dios que conmigo está</p>"
 descargable: 
 layout: cancion
-permalink: "/geancarlo-calderon/entrada-del-rey/entrada-del-rey"
+permalink: "/geancarlo-calderon/identidad/entrada-del-rey"
 ---
 

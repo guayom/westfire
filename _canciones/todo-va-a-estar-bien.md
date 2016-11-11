@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *123
+album: Fuego
 lyrics: "<p><span>Mis dias se desvanecen, </span></p><p>como el humo que se va con
   el viento,</p><p>Mis huesos arden por dentro, </p><p>como las brasas que están en
   el fuego</p><p>Puedo escuchar tu dulce susurrar,</p><p>diciendome nada va a pasar,</p><p>y
@@ -2945,6 +2945,6 @@ chords: "<p><span>Intro: G  C</span></p><p>C              G              D</p><p
   luz y esperanza eres tu.</p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/todo-va-a-estar-bien/todo-va-a-estar-bien"
+permalink: "/fuego/fuego/todo-va-a-estar-bien"
 ---
 

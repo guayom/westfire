@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *123
+album: Fuego
 lyrics: "<p><span>Ven y haz brillar tu luz en mi, </span></p><p>quiebra la maldad
   de mi ser</p><p>Cristo creo en ti</p><p>Toda la verdad está en ti, </p><p>quiero
   respirar de ti                  </p><p>eres todo para mí</p><p>Abre el cielo y danos
@@ -2945,6 +2945,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   fuerza está en ti</p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/paz/paz"
+permalink: "/fuego/fuego/paz"
 ---
 

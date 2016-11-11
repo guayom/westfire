@@ -11,7 +11,8 @@ directory "_artistas/" do
         youtube: artist.youtube,
         bandcamp: artist.bandcamp,
         layout: "artist",
-        permalink: "/#{artist.nombre.parameterize}/"
+        permalink: "/#{artist.nombre.parameterize}/",
+        thumbnail: artist.imagen.url(w: 370)
       }
 
       content artist.descripcion
@@ -24,12 +25,14 @@ directory "_albums/" do
     create_post "#{album.titulo.parameterize}.md" do
       frontmatter :yaml, {
         title: album.titulo,
-        artista: album.artista,
-        cover: album.cover,
+        artista: album.artista.nombre,
+        cover: album.cover.url,
         itunes: album.itunes,
         bandcamp: album.bandcamp,
         layout: "album",
-        permalink: "/#{album.artista.nombre.parameterize}/#{album.titulo.parameterize}/"
+        permalink: "/#{album.artista.nombre.parameterize}/#{album.titulo.parameterize}/",
+        thumbnail: album.cover.url(w: 370),
+        thumbnail_canciones: album.cover.url(w: 285)
       }
 
       content album.descripcion
@@ -43,12 +46,12 @@ directory "_canciones/" do
       frontmatter :yaml, {
         title: cancion.titulo,
         artista: cancion.artista,
-        album: cancion.album,
+        album: cancion.album.titulo,
         lyrics: cancion.lyrics,
         chords: cancion.chords,
         descargable: cancion.descargable,
         layout: "cancion",
-        permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.titulo.parameterize}/#{cancion.titulo.parameterize}"
+        permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.album.titulo.parameterize}/#{cancion.titulo.parameterize}"
       }
     end
   end
@@ -63,6 +66,7 @@ directory "_videos/" do
         album: video.album,
         video: video.video,
         layout: "video",
+        thumbnail: video.video.thumbnail_url,
         permalink: "/videos/#{video.titulo.parameterize}"
       }
 

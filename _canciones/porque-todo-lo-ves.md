@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *123
+album: Fuego
 lyrics: "<p><span>Creador de cielo y tierra nada se escapa de tu amor</span></p><p>venimos
   a adorarte venimos a cantarte hoy</p><p>Coro:</p><p>Porque todo lo ves, porque todo
   lo ves</p><p>aun mi corazón, aun mi corazón</p><p>Puente:              </p><p>Nada
@@ -2936,6 +2936,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   nos separará de ti </p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/porque-todo-lo-ves/porque-todo-lo-ves"
+permalink: "/fuego/fuego/porque-todo-lo-ves"
 ---
 

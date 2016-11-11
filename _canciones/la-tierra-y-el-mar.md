@@ -2923,7 +2923,7 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p><span>El año nuevo se aproxima, la aventura no ha terminado</span></p><p>Cruzamos
   puentes y montañas, primaveras sin saber de nada</p><p>Y pensamos si continuar y
   ahí sus manos nos calentaban</p><p>Un fuego vivo se despierta como un río que nos
@@ -2936,6 +2936,6 @@ lyrics: "<p><span>El año nuevo se aproxima, la aventura no ha terminado</span><
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/la-tierra-y-el-mar/la-tierra-y-el-mar"
+permalink: "/ale-fdz/fracciones-de-luz/la-tierra-y-el-mar"
 ---
 

@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *123
+album: Fuego
 lyrics: "<p><span>Ábreme los ojos, desde adentro</span></p><p>para ver tu reino es
   todo lo que quiero</p><p>Este es tu hogar, esta es tu casa,</p><p>gracias por estar
   acá, gracias por estar acá </p>"
@@ -2933,6 +2933,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                      C      G      
   \ </p><p>gracias por estar acá, gracias por estar acá </p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/abreme-los-ojos/abreme-los-ojos"
+permalink: "/fuego/fuego/abreme-los-ojos"
 ---
 

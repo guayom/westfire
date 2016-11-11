@@ -2923,7 +2923,7 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p><span>No se compara con nada en este mundo</span></p><p><span></span><span>Sobrepasa
   las montañas</span></p><p>No se compara con mares ni océanos</p><p>Ni con su profundidad</p><p>Y
   apareció, y en seguida nos señaló el rastro en el mar</p><p>No se compara con las
@@ -2942,6 +2942,6 @@ lyrics: "<p><span>No se compara con nada en este mundo</span></p><p><span></span
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/el-sonido-de-sus-suenos/el-sonido-de-sus-suenos"
+permalink: "/ale-fdz/fracciones-de-luz/el-sonido-de-sus-suenos"
 ---
 

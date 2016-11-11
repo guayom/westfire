@@ -1,9 +1,5 @@
 ---
 permalink: /albums/
-layout: default
+layout: list
+title: Álbums
 ---
-<ul>
-{% for album in site.albums %}
-  <li><a href="{{album.url}}">{{album.title}}</a></li>
-{% endfor %}
-</ul>

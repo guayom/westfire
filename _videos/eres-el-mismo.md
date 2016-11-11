@@ -2934,7 +2934,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/mQrTJdHR9ks/hqdefault.jpg
 permalink: "/videos/eres-el-mismo"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c349108>
+#<Dato::Local::FieldType::Video:0x007f941eac15e8>

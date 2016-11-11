@@ -2923,7 +2923,7 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p>Se que la tormenta ya va a pasar</p><p>Se que la marea nos va a llevar
   a desembarcar</p><p>A descansar</p><p>Estoy tan ansioso por llegar</p><p>Contarte
   todo lo que aprendí en este lugar</p><p>Te prometo que será mejor</p><p>Y siento
@@ -2940,6 +2940,6 @@ lyrics: "<p>Se que la tormenta ya va a pasar</p><p>Se que la marea nos va a llev
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/despertamos/despertamos"
+permalink: "/ale-fdz/fracciones-de-luz/despertamos"
 ---
 

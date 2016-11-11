@@ -2923,13 +2923,13 @@ artista: &80 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *120
+album: 'Fracciones de Luz '
 lyrics: "<p><span>Sigo a la espera</span></p><p>A que regreses del mar</p><p>Regreses
   para quedarte</p><p>Ya estás tan cerca</p><p>La primavera se va</p><p>Regresas pará
   quedarte</p><p>Y siento que estás acá</p><p>Me siento mejor cuando estás acá</p>"
 chords: 
 descargable: 
 layout: cancion
-permalink: "/ale-fdz/primavera/primavera"
+permalink: "/ale-fdz/fracciones-de-luz/primavera"
 ---
 

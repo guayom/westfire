@@ -2922,7 +2922,7 @@ artista: &78 !ruby/object:Dato::Local::Item
   - *74
   - *75
   - *76
-album: *121
+album: Abba
 lyrics: "<p><span>Tu me has dado un corazón nuevo, </span></p><p>Tu me has dado un
   corazón nuevo, </p><p>para adorarte, para poder cantar</p><p>Tu me has dado un corazón
   nuevo, </p><p>C</p><p>Tu me has dado un corazón nuevo, </p><p>lleno de vida y puedo
@@ -2943,6 +2943,6 @@ chords: "<p><span>Intro: G C</span></p><p>G</p><p>Tu me has dado un corazón nue
   levántate, levántate, maravilloso Dios</p>"
 descargable: 
 layout: cancion
-permalink: "/fuego/mi-corazon-es-tu-hogar/mi-corazon-es-tu-hogar"
+permalink: "/fuego/abba/mi-corazon-es-tu-hogar"
 ---
 

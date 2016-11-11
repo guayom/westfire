@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/vzgTrLjZ8sM/hqdefault.jpg
 permalink: "/videos/permanecere-westfire-live"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c339528>
+#<Dato::Local::FieldType::Video:0x007f941eaab6d0>

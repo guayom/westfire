@@ -14,13 +14,13 @@
           </a>
           <div class="nav-collapse collapse">
             <ul class="nav pull-right menu nav-pills" id="mainnav_ul">
-              <li class="current active"><a href="/">Home</a></li>
-              <li><a href="/artistas/">Artistas</a></li>
-              <li><a href="/albums/">Álbums</a></li>
-              <li><a href="/videos/">Vídeos</a></li>
-              <li><a href="/canciones/">Canciones</a></li>
-              <!-- <li><a href="/blog/">Blog</a></li> -->
-              <li><a href="/contacto/">Contacto</a></li>
+              {% for node in site.data.navigation %}
+                {% if page.url == node.link %}
+                  <li class="current active"><a href="{{node.link}}">{{node.title}}</a></li>
+                {% else %}
+                  <li><a href="{{node.link}}">{{node.title}}</a></li>
+                {% endif %}
+              {% endfor %}
             </ul>
           </div> <!-- /.nav-collapse collapse -->
       </div> <!-- /.container -->

@@ -2933,7 +2933,8 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+thumbnail: https://i.ytimg.com/vi/4SN9YwtnBRc/hqdefault.jpg
 permalink: "/videos/voy-cruzando-desierto"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd17c2bbd30>
+#<Dato::Local::FieldType::Video:0x007f941f183728>
