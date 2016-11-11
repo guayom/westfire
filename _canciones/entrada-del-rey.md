@@ -2934,5 +2934,6 @@ chords: "<p><span>G -  Am – Bm7 -  C</span></p><p>Escucha la canción del ciel
   el Rey de Gloria pueda entrar</p><p>Quién es el Rey de Gloria?</p><p>Señor fuerte
   y poderoso</p><p>Señor victorioso en batalla</p><p>Dios que conmigo está</p>"
 descargable: 
+layout: cancion
 ---
 

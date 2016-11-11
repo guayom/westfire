@@ -2935,5 +2935,6 @@ lyrics: "<p><span>El año nuevo se aproxima, la aventura no ha terminado</span><
   tierra y el mar llenas con canciones para juntos navegar</p><p>Y no extraviarnos</p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 

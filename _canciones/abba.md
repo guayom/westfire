@@ -2942,5 +2942,6 @@ chords: "<p><span>Intro: G Cadd9 G Cadd9</span></p><p>G               Cadd9     
   en la oscuridad</p><p>G                                  Cadd9    </p><p>Haces temblar
   las tinieblas</p><p>       G          Cadd9</p><p>Y todo mal </p>"
 descargable: 
+layout: cancion
 ---
 

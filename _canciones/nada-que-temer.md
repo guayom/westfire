@@ -2937,5 +2937,6 @@ chords: "<p><span>ntro: G  G  Em  C  G</span></p><p>G</p><p>Mis temores se van, 
   montañas, hoy te puedo ver </p><p>                 C                       G</p><p>
   veo tus ángeles cantando</p>"
 descargable: 
+layout: cancion
 ---
 

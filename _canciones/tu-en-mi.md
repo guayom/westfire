@@ -2947,5 +2947,6 @@ chords: "<p><span>Intro.    F#9/G#      Cm#sus       E9/F#</span></p><p>F#9/G#  
   cada día ver tu amor, en mi corazón</p><p>                  Cm#sus</p><p>Cerca de
   mi, cerca de mi</p>"
 descargable: 
+layout: cancion
 ---
 

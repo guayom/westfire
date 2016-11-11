@@ -2932,6 +2932,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider: youtube
   provider_url: 
   provider_uid: undefined
+layout: video
 ---
 
-#<Dato::Local::FieldType::Video:0x007fc8a28192b0>
+#<Dato::Local::FieldType::Video:0x007fd16aaf4ec8>

@@ -2944,5 +2944,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   ti, todas las mañanas, así es</p><p>C                               G                      </p><p>mi
   fuerza está en ti</p>"
 descargable: 
+layout: cancion
 ---
 

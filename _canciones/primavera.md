@@ -2929,5 +2929,6 @@ lyrics: "<p><span>Sigo a la espera</span></p><p>A que regreses del mar</p><p>Reg
   quedarte</p><p>Y siento que estás acá</p><p>Me siento mejor cuando estás acá</p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 

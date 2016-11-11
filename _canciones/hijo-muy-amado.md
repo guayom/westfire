@@ -2935,5 +2935,6 @@ chords: "<p><span>Am7             D</span></p><p>Yo soy, quién tu dices que soy
   presente y mi futuro en tus manos están</p><p>Eres quien tu dices ser, eres un buen
   Padre</p>"
 descargable: 
+layout: cancion
 ---
 

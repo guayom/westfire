@@ -2934,5 +2934,6 @@ lyrics: "<p><span>Nos deslizamos al fondo</span></p><p>Desenterramos tesoros que
   luces con su rostro</p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 

@@ -2942,5 +2942,6 @@ chords: "<p><span>Intro: G C</span></p><p>G</p><p>Tu me has dado un corazón nue
   \      G                  C                A7sus4                C6     C</p><p>Levántate,
   levántate, levántate, maravilloso Dios</p>"
 descargable: 
+layout: cancion
 ---
 

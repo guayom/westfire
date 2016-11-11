@@ -2941,5 +2941,6 @@ chords: "<p>Intro: C   G   D</p><p>                C                 G          
   mi voz otra vez,</p><p>                        C    G                 D</p><p><span>vengo
   a cantarte, que tu reino baje</span></p>"
 descargable: 
+layout: cancion
 ---
 

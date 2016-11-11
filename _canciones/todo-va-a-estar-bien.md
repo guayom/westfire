@@ -2944,5 +2944,6 @@ chords: "<p><span>Intro: G  C</span></p><p>C              G              D</p><p
   \                                    C   G         D</p><p>ven a llenar este lugar,
   luz y esperanza eres tu.</p>"
 descargable: 
+layout: cancion
 ---
 

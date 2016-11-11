@@ -2932,5 +2932,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                      C      G      
   Este es tu hogar, ----- esta es tu casa,</p><p>G                                       C
   \ </p><p>gracias por estar acá, gracias por estar acá </p>"
 descargable: 
+layout: cancion
 ---
 

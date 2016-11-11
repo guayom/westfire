@@ -12,6 +12,7 @@ facebook: https://www.facebook.com/rodrigo.montenegro.18?fref=ts
 twitter: 
 youtube: 
 bandcamp: 
+layout: artist
 ---
 
 <p>

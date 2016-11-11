@@ -2945,5 +2945,6 @@ chords: "<p><span>Intro: Fmaj7  C  Fmaj7  C  G</span></p><p>Fmaj7               
   Rey de reyes, eres el único,</p><p>                C                                     G</p><p>y
   por tu sangre somos libres hoy</p>"
 descargable: 
+layout: cancion
 ---
 

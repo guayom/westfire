@@ -2935,5 +2935,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   \                                          C                                     </p><p>Nada
   nos separará de ti </p>"
 descargable: 
+layout: cancion
 ---
 

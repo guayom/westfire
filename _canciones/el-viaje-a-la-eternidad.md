@@ -2935,5 +2935,6 @@ lyrics: "<p><span>Quiero llegar a ver tu rostro</span></p><p>Ver tu amor llenar 
   oscuridad</p><p>Estás brillando, estás brillando iluminando el día</p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 

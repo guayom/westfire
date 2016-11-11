@@ -2944,5 +2944,6 @@ chords: "<p><span>B</span></p><p>Tus palabras de amor, de aprobación,</p><p>Gm#
   necesidad, supliste por completo</p><p>Gm#                                                          E
   \      -   F#</p><p>Cuando intente llenar mi corazón con algo más</p>"
 descargable: 
+layout: cancion
 ---
 

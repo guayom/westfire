@@ -2930,6 +2930,8 @@ cover: !ruby/object:Dato::Local::FieldType::Image
   height: 1465
 itunes: 
 bandcamp: https://geancarlocalderon.bandcamp.com/releases
+layout: album
+permalink: "/albums/geancarlo-calderon/identidad/"
 ---
 
 <p>En cada una de las canciones de este album podremos sentir el corazón de un Padre amoroso que ama a sus hijos e hijas profundamente, ese es nuestro padre Celestial. Al saber que somos amados por El podemos estar seguros de quienes somos, no tenemos que compararnos con nadie ni vivir esclavos a la aprobación de otros, tenemos identidad verdadera. Geancarlo logra capturar ese corazón al escribir sus canciones.</p>

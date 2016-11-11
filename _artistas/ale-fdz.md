@@ -12,6 +12,7 @@ facebook:
 twitter: https://twitter.com/AleFdzz_
 youtube: 
 bandcamp: 
+layout: artist
 ---
 
 <p>

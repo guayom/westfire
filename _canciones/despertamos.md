@@ -2939,5 +2939,6 @@ lyrics: "<p>Se que la tormenta ya va a pasar</p><p>Se que la marea nos va a llev
   con los soles y el mar</span></p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 

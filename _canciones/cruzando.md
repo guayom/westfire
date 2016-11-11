@@ -2948,5 +2948,6 @@ chords: "<p><span>Intro: G  Asus2  A/F#  G</span></p><p>G      Asus2            
   Santo ven, renueva mi mente ven</p><p> Asus2                G                    D
   \                    Asus2</p><p>Refresca mi alma ven, eres bienvenido aquí</p>"
 descargable: 
+layout: cancion
 ---
 

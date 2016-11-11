@@ -2941,5 +2941,6 @@ lyrics: "<p><span>No se compara con nada en este mundo</span></p><p><span></span
   canción</p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 

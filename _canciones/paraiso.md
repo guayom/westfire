@@ -2936,5 +2936,6 @@ lyrics: "<p><span>La tierra paró de temblar</span></p><p>Allá en la montaña b
   en tus brazos</p>"
 chords: 
 descargable: 
+layout: cancion
 ---
 
