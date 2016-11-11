@@ -13,6 +13,7 @@ twitter:
 youtube: 
 bandcamp: 
 layout: artist
+permalink: "/rodri-montenegro/"
 ---
 
 <p>

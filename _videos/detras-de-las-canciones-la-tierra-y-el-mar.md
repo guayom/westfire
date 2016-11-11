@@ -2934,6 +2934,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/detras-de-las-canciones-la-tierra-y-el-mar"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16b8e7cb0>
+#<Dato::Local::FieldType::Video:0x007fd17c2e06f8>

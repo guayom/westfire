@@ -2933,6 +2933,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/buenos-regalos"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16aa361d0>
+#<Dato::Local::FieldType::Video:0x007fd179fe2160>

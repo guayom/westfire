@@ -2945,5 +2945,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   fuerza está en ti</p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/paz/paz"
 ---
 

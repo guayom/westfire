@@ -2935,5 +2935,6 @@ lyrics: "<p><span>Nos deslizamos al fondo</span></p><p>Desenterramos tesoros que
 chords: 
 descargable: 
 layout: cancion
+permalink: "/ale-fdz/su-amor/su-amor"
 ---
 

@@ -2949,5 +2949,6 @@ chords: "<p><span>Intro: G  Asus2  A/F#  G</span></p><p>G      Asus2            
   \                    Asus2</p><p>Refresca mi alma ven, eres bienvenido aquí</p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/cruzando/cruzando"
 ---
 

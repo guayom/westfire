@@ -2933,6 +2933,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/todo-va-a-estar-bien-version-acustica"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16aaaf9e0>
+#<Dato::Local::FieldType::Video:0x007fd17c8097b0>

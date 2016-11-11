@@ -2943,5 +2943,6 @@ chords: "<p><span>Intro: G C</span></p><p>G</p><p>Tu me has dado un corazón nue
   levántate, levántate, maravilloso Dios</p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/mi-corazon-es-tu-hogar/mi-corazon-es-tu-hogar"
 ---
 

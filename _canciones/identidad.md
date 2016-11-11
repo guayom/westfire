@@ -2945,5 +2945,6 @@ chords: "<p><span>B</span></p><p>Tus palabras de amor, de aprobación,</p><p>Gm#
   \      -   F#</p><p>Cuando intente llenar mi corazón con algo más</p>"
 descargable: 
 layout: cancion
+permalink: "/geancarlo-calderon/identidad/identidad"
 ---
 

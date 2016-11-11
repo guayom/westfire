@@ -2945,5 +2945,6 @@ chords: "<p><span>Intro: G  C</span></p><p>C              G              D</p><p
   luz y esperanza eres tu.</p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/todo-va-a-estar-bien/todo-va-a-estar-bien"
 ---
 

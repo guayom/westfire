@@ -2931,7 +2931,7 @@ cover: !ruby/object:Dato::Local::FieldType::Image
 itunes: https://itunes.apple.com/us/album/fuego/id881950058
 bandcamp: http://fuegovina.bandcamp.com/album/fuego
 layout: album
-permalink: "/albums/fuego/fuego/"
+permalink: "/fuego/fuego/"
 ---
 
 <p>Es un disco lleno de paz, alegria e intesidad, son canciones que han llenado de fé los corazones de los que las han escuchado. El la idea fue la de lograr capturar la escencia de un momento de adoración espontaneo de nuestra comunidad.</p>

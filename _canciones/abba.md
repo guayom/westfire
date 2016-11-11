@@ -2943,5 +2943,6 @@ chords: "<p><span>Intro: G Cadd9 G Cadd9</span></p><p>G               Cadd9     
   las tinieblas</p><p>       G          Cadd9</p><p>Y todo mal </p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/abba/abba"
 ---
 

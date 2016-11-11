@@ -2934,6 +2934,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/una-vez-y-para-siempre"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16ac279a8>
+#<Dato::Local::FieldType::Video:0x007fd17c328930>

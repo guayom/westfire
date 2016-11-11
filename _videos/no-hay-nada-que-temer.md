@@ -2933,6 +2933,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/no-hay-nada-que-temer"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16b8c4e90>
+#<Dato::Local::FieldType::Video:0x007fd17c81aab0>

@@ -2932,7 +2932,7 @@ cover: !ruby/object:Dato::Local::FieldType::Image
 itunes: 
 bandcamp: http://alefdzmusic.bandcamp.com/album/ember
 layout: album
-permalink: "/albums/ale-fdz/ember/"
+permalink: "/ale-fdz/ember/"
 ---
 
 <p>Ember es un EP de adoración. Una expresión urgente de libertad, creatividad y espontaneidad, donde se experimenta con sintetizadores y diferentes sonidos de baterías acústicas.</p>

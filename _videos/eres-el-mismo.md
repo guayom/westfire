@@ -2934,6 +2934,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/eres-el-mismo"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16b9a49a0>
+#<Dato::Local::FieldType::Video:0x007fd17c349108>

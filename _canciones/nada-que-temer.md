@@ -2938,5 +2938,6 @@ chords: "<p><span>ntro: G  G  Em  C  G</span></p><p>G</p><p>Mis temores se van, 
   veo tus ángeles cantando</p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/nada-que-temer/nada-que-temer"
 ---
 

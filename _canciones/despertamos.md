@@ -2940,5 +2940,6 @@ lyrics: "<p>Se que la tormenta ya va a pasar</p><p>Se que la marea nos va a llev
 chords: 
 descargable: 
 layout: cancion
+permalink: "/ale-fdz/despertamos/despertamos"
 ---
 

@@ -2942,5 +2942,6 @@ lyrics: "<p><span>No se compara con nada en este mundo</span></p><p><span></span
 chords: 
 descargable: 
 layout: cancion
+permalink: "/ale-fdz/el-sonido-de-sus-suenos/el-sonido-de-sus-suenos"
 ---
 

@@ -13,6 +13,7 @@ twitter: https://twitter.com/AleFdzz_
 youtube: 
 bandcamp: 
 layout: artist
+permalink: "/ale-fdz/"
 ---
 
 <p>

@@ -2935,5 +2935,6 @@ chords: "<p><span>G -  Am – Bm7 -  C</span></p><p>Escucha la canción del ciel
   y poderoso</p><p>Señor victorioso en batalla</p><p>Dios que conmigo está</p>"
 descargable: 
 layout: cancion
+permalink: "/geancarlo-calderon/entrada-del-rey/entrada-del-rey"
 ---
 

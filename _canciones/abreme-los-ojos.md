@@ -2933,5 +2933,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                      C      G      
   \ </p><p>gracias por estar acá, gracias por estar acá </p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/abreme-los-ojos/abreme-los-ojos"
 ---
 

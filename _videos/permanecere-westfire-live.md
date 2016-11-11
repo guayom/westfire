@@ -2933,6 +2933,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/permanecere-westfire-live"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16ac3c8a8>
+#<Dato::Local::FieldType::Video:0x007fd17c339528>

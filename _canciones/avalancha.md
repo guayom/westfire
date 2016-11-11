@@ -2939,5 +2939,6 @@ chords: "<p><span>Intro: Am  Cadd11  C</span></p><p> Am              Cadd11    C
   una avalancha, como un estruendo </p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/avalancha/avalancha"
 ---
 

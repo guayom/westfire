@@ -2948,5 +2948,6 @@ chords: "<p><span>Intro.    F#9/G#      Cm#sus       E9/F#</span></p><p>F#9/G#  
   mi, cerca de mi</p>"
 descargable: 
 layout: cancion
+permalink: "/geancarlo-calderon/tu-en-mi/tu-en-mi"
 ---
 

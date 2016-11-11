@@ -2936,5 +2936,6 @@ chords: "<p><span>Am7             D</span></p><p>Yo soy, quién tu dices que soy
   Padre</p>"
 descargable: 
 layout: cancion
+permalink: "/geancarlo-calderon/hijo-muy-amado/hijo-muy-amado"
 ---
 

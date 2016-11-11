@@ -2933,6 +2933,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/voy-cruzando-desierto"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16aaf4ec8>
+#<Dato::Local::FieldType::Video:0x007fd17c2bbd30>

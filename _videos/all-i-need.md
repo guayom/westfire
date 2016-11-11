@@ -2934,6 +2934,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: _PpihkErIxE
 layout: video
+permalink: "/videos/all-i-need"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16aa74110>
+#<Dato::Local::FieldType::Video:0x007fd179ff1318>

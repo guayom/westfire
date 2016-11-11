@@ -2932,7 +2932,7 @@ cover: !ruby/object:Dato::Local::FieldType::Image
 itunes: 
 bandcamp: http://alefdzmusic.bandcamp.com/album/fracciones-de-luz-2
 layout: album
-permalink: "/albums/ale-fdz/fracciones-de-luz/"
+permalink: "/ale-fdz/fracciones-de-luz/"
 ---
 
 <p>Fracciones de Luz es un disco que habla acerca de lo que aprendemos al caminar con Dios, como el paraíso de estar en Su presencia, el gozo que hay en vencer pruebas a Su lado, la paz que trae Su amor y el vacío que hay al estar lejos de El.</p>

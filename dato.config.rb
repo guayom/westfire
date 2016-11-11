@@ -10,7 +10,8 @@ directory "_artistas/" do
         twitter: artist.twitter,
         youtube: artist.youtube,
         bandcamp: artist.bandcamp,
-        layout: "artist"
+        layout: "artist",
+        permalink: "/#{artist.nombre.parameterize}/"
       }
 
       content artist.descripcion
@@ -28,7 +29,7 @@ directory "_albums/" do
         itunes: album.itunes,
         bandcamp: album.bandcamp,
         layout: "album",
-        permalink: "/albums/#{album.artista.nombre.parameterize}/#{album.titulo.parameterize}/"
+        permalink: "/#{album.artista.nombre.parameterize}/#{album.titulo.parameterize}/"
       }
 
       content album.descripcion
@@ -46,7 +47,8 @@ directory "_canciones/" do
         lyrics: cancion.lyrics,
         chords: cancion.chords,
         descargable: cancion.descargable,
-        layout: "cancion"
+        layout: "cancion",
+        permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.titulo.parameterize}/#{cancion.titulo.parameterize}"
       }
     end
   end
@@ -60,7 +62,8 @@ directory "_videos/" do
         artista: video.artista,
         album: video.album,
         video: video.video,
-        layout: "video"
+        layout: "video",
+        permalink: "/videos/#{video.titulo.parameterize}"
       }
 
       content video.video

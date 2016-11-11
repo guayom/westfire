@@ -2937,5 +2937,6 @@ lyrics: "<p><span>La tierra paró de temblar</span></p><p>Allá en la montaña b
 chords: 
 descargable: 
 layout: cancion
+permalink: "/ale-fdz/paraiso/paraiso"
 ---
 

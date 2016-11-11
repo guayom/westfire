@@ -2946,5 +2946,6 @@ chords: "<p><span>Intro: Fmaj7  C  Fmaj7  C  G</span></p><p>Fmaj7               
   por tu sangre somos libres hoy</p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/permanecere/permanecere"
 ---
 

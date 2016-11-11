@@ -2936,5 +2936,6 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   nos separará de ti </p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/porque-todo-lo-ves/porque-todo-lo-ves"
 ---
 

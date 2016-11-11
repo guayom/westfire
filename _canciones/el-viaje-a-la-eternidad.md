@@ -2936,5 +2936,6 @@ lyrics: "<p><span>Quiero llegar a ver tu rostro</span></p><p>Ver tu amor llenar 
 chords: 
 descargable: 
 layout: cancion
+permalink: "/ale-fdz/el-viaje-a-la-eternidad/el-viaje-a-la-eternidad"
 ---
 

@@ -2934,6 +2934,7 @@ video: !ruby/object:Dato::Local::FieldType::Video
   provider_url: 
   provider_uid: undefined
 layout: video
+permalink: "/videos/detras-de-las-canciones-el-sonido-de-sus-suenos"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd16b8fc5c0>
+#<Dato::Local::FieldType::Video:0x007fd17c829ba0>

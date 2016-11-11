@@ -2942,5 +2942,6 @@ chords: "<p>Intro: C   G   D</p><p>                C                 G          
   a cantarte, que tu reino baje</span></p>"
 descargable: 
 layout: cancion
+permalink: "/fuego/te-adorare/te-adorare"
 ---
 

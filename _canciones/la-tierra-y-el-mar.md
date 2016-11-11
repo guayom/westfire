@@ -2936,5 +2936,6 @@ lyrics: "<p><span>El año nuevo se aproxima, la aventura no ha terminado</span><
 chords: 
 descargable: 
 layout: cancion
+permalink: "/ale-fdz/la-tierra-y-el-mar/la-tierra-y-el-mar"
 ---
 
