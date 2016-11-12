@@ -75,6 +75,13 @@ directory "_videos/" do
   end
 end
 
+directory "_data/contacto" do
+  create_data_file "info.yml", :yaml,
+    direccion: dato.contacto.direccion,
+    telefono: dato.contacto.telefono,
+    email: dato.contacto.email
+end
+
 directory "_data/slides" do
   dato.slides.each do |slide|
     create_data_file "{slide.slug}.yml", :yaml, {

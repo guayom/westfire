@@ -20,8 +20,6 @@ social:
 # Build settings
 markdown: kramdown
 
-multiples_of_3: "3 6 9 12 15"
-
 #collections
 collections:
   artistas:
