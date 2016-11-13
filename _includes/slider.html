@@ -1,15 +1,9 @@
-<!-- <div class="row-fluid slider-container">
-  <ul id="slider" class="sy-list"> -->
-<div class="container">
-  <ul>
+<div class="row-fluid slider-container">
+  <ul id="slider" class="sy-list">
     {% for slide in site.data.slides %}
-      - {{ slide | debug }} -
-      ///{{ slide.first.title }}///
-      <li><img src="{{slide.imagen}}" alt="{{slide.title}}" /></li>
+      <li><img src="{{slide[1].imagen}}" alt="{{slide[1].title}}" /></li>
     {% endfor %}
   </ul>
-
-  {{ site.data.slides | inspect }}
 
   <script type="text/javascript">
   (function($){
