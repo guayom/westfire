@@ -3043,18 +3043,11 @@ artista: &82 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *125
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/BMA9r74Gd6w
-  thumbnail_url: https://i.ytimg.com/vi/BMA9r74Gd6w/hqdefault.jpg
-  title: Buenos Regalos - Geancarlo Calderón
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/BMA9r74Gd6w?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/BMA9r74Gd6w/hqdefault.jpg
 permalink: "/videos/buenos-regalos"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee8c1680>
+#<Dato::Local::FieldType::Video:0x007fbe9f55a298>

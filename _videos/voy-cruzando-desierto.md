@@ -3043,18 +3043,11 @@ artista: &83 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *129
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/4SN9YwtnBRc
-  thumbnail_url: https://i.ytimg.com/vi/4SN9YwtnBRc/hqdefault.jpg
-  title: Fuego - Voy Cruzando (Desierto)
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/4SN9YwtnBRc?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/4SN9YwtnBRc/hqdefault.jpg
 permalink: "/videos/voy-cruzando-desierto"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee910730>
+#<Dato::Local::FieldType::Video:0x007fbe9c6bed58>

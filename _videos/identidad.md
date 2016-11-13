@@ -3043,18 +3043,11 @@ artista: &82 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *125
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/4HYxkIntNEA
-  thumbnail_url: https://i.ytimg.com/vi/4HYxkIntNEA/hqdefault.jpg
-  title: Identidad - Geancarlo Calderón
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/4HYxkIntNEA?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/4HYxkIntNEA/hqdefault.jpg
 permalink: "/videos/identidad"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee971fd0>
+#<Dato::Local::FieldType::Video:0x007fbe9c6ceb18>

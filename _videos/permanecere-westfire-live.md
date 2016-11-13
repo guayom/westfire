@@ -3043,18 +3043,11 @@ artista: &83 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: 
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/vzgTrLjZ8sM
-  thumbnail_url: https://i.ytimg.com/vi/vzgTrLjZ8sM/hqdefault.jpg
-  title: Fuego - "Permaneceré" - Westfire Live
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/vzgTrLjZ8sM?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/vzgTrLjZ8sM/hqdefault.jpg
 permalink: "/videos/permanecere-westfire-live"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee4e0840>
+#<Dato::Local::FieldType::Video:0x007fbe9f602628>

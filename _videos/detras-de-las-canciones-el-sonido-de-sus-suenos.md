@@ -3044,18 +3044,11 @@ artista: &85 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *126
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/oKa9oPCz914
-  thumbnail_url: https://i.ytimg.com/vi/oKa9oPCz914/hqdefault.jpg
-  title: 'Ale Fdz - Detrás de las Canciones: El Sonido de Sus Sueños'
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/oKa9oPCz914?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/oKa9oPCz914/hqdefault.jpg
 permalink: "/videos/detras-de-las-canciones-el-sonido-de-sus-suenos"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee94a0c0>
+#<Dato::Local::FieldType::Video:0x007fbe9d9197c8>

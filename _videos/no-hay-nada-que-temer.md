@@ -3043,18 +3043,11 @@ artista: &83 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *129
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/giBMM70DywQ
-  thumbnail_url: https://i.ytimg.com/vi/giBMM70DywQ/hqdefault.jpg
-  title: Fuego - No hay nada que temer
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/giBMM70DywQ?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/giBMM70DywQ/hqdefault.jpg
 permalink: "/videos/no-hay-nada-que-temer"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee8fab10>
+#<Dato::Local::FieldType::Video:0x007fbe9c6a7d10>

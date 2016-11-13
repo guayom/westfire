@@ -3043,18 +3043,11 @@ artista: &82 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: 
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/ttBEZzyy3Lk
-  thumbnail_url: https://i.ytimg.com/vi/ttBEZzyy3Lk/hqdefault.jpg
-  title: Hijo Muy Amado - Geancarlo Calderón
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/ttBEZzyy3Lk?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/ttBEZzyy3Lk/hqdefault.jpg
 permalink: "/videos/hijo-muy-amado"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee4c1030>
+#<Dato::Local::FieldType::Video:0x007fbe9c6de540>

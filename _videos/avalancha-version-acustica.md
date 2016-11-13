@@ -3043,18 +3043,11 @@ artista: &83 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *129
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/KfcU26GiARg
-  thumbnail_url: https://i.ytimg.com/vi/KfcU26GiARg/hqdefault.jpg
-  title: Fuego - Avalancha (Versión Acústica)
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/KfcU26GiARg?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/KfcU26GiARg/hqdefault.jpg
 permalink: "/videos/avalancha-version-acustica"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee921760>
+#<Dato::Local::FieldType::Video:0x007fbe9f5911a8>

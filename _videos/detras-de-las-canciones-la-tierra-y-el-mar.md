@@ -3044,18 +3044,11 @@ artista: &85 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *126
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/wKgqXRxAJQE
-  thumbnail_url: https://i.ytimg.com/vi/wKgqXRxAJQE/hqdefault.jpg
-  title: 'Ale Fdz - Detrás de las Canciones: La Tierra y el Mar'
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/wKgqXRxAJQE?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/wKgqXRxAJQE/hqdefault.jpg
 permalink: "/videos/detras-de-las-canciones-la-tierra-y-el-mar"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee9385a0>
+#<Dato::Local::FieldType::Video:0x007fbe9f5a29d0>

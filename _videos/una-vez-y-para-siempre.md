@@ -3044,18 +3044,11 @@ artista: &85 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: 
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/2EKGeziGWhg
-  thumbnail_url: https://i.ytimg.com/vi/2EKGeziGWhg/hqdefault.jpg
-  title: Una vez y para siempre - Ale Fdz
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/2EKGeziGWhg?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/2EKGeziGWhg/hqdefault.jpg
 permalink: "/videos/una-vez-y-para-siempre"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee993630>
+#<Dato::Local::FieldType::Video:0x007fbe9f5ebf90>

@@ -3043,18 +3043,11 @@ artista: &83 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: *129
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/aKhX7pPscJo
-  thumbnail_url: https://i.ytimg.com/vi/aKhX7pPscJo/hqdefault.jpg
-  title: Fuego - Todo va a estar bien (Versión acústica)
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/aKhX7pPscJo?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/aKhX7pPscJo/hqdefault.jpg
 permalink: "/videos/todo-va-a-estar-bien-version-acustica"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee8e3c80>
+#<Dato::Local::FieldType::Video:0x007fbe9f579f58>

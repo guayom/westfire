@@ -66,7 +66,7 @@ directory "_videos/" do
         title: video.titulo,
         artista: video.artista,
         album: video.album,
-        video: video.video,
+        video: video.video.iframe_embed(1170, 658),
         layout: "video",
         thumbnail: video.video.thumbnail_url,
         permalink: "/videos/#{video.titulo.parameterize}"

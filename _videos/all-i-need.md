@@ -3044,18 +3044,11 @@ artista: &85 !ruby/object:Dato::Local::Item
   - *80
   - *81
 album: 
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://www.youtube.com/watch?v=_PpihkErIxE
-  thumbnail_url: https://i.ytimg.com/vi/_PpihkErIxE/hqdefault.jpg
-  title: Ale Fdz - "All I need" - Westfire Live
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: _PpihkErIxE
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/_PpihkErIxE?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/_PpihkErIxE/hqdefault.jpg
 permalink: "/videos/all-i-need"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee8d2688>
+#<Dato::Local::FieldType::Video:0x007fbe9f563e88>

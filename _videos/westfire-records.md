@@ -2,18 +2,11 @@
 title: Westfire Records
 artista: 
 album: 
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/MNrg8Y1lP4c
-  thumbnail_url: https://i.ytimg.com/vi/MNrg8Y1lP4c/hqdefault.jpg
-  title: Westfire Records
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/MNrg8Y1lP4c?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/MNrg8Y1lP4c/hqdefault.jpg
 permalink: "/videos/westfire-records"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee960280>
+#<Dato::Local::FieldType::Video:0x007fbe9f5bbcf0>

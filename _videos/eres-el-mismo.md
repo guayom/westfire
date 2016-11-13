@@ -3044,18 +3044,11 @@ artista: &71 !ruby/object:Dato::Local::Item
   - *81
   - *82
 album: 
-video: !ruby/object:Dato::Local::FieldType::Video
-  url: https://youtu.be/mQrTJdHR9ks
-  thumbnail_url: https://i.ytimg.com/vi/mQrTJdHR9ks/hqdefault.jpg
-  title: Eres El Mismo - Rodri Montenegro
-  width: 480
-  height: 270
-  provider: youtube
-  provider_url: 
-  provider_uid: undefined
+video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/mQrTJdHR9ks?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 layout: video
 thumbnail: https://i.ytimg.com/vi/mQrTJdHR9ks/hqdefault.jpg
 permalink: "/videos/eres-el-mismo"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb9ee4f1e60>
+#<Dato::Local::FieldType::Video:0x007fbe9f613f90>
