@@ -3050,6 +3050,7 @@ lyrics: "<p><span>Sigo a la espera</span></p><p>A que regreses del mar</p><p>Reg
 chords: 
 descargable: 
 album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+cancion_layout: true
 layout: cancion
 permalink: "/ale-fdz/fracciones-de-luz/primavera"
 ---

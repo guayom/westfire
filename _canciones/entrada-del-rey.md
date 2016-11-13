@@ -3055,6 +3055,7 @@ chords: "<p><span>G -  Am – Bm7 -  C</span></p><p>Escucha la canción del ciel
   y poderoso</p><p>Señor victorioso en batalla</p><p>Dios que conmigo está</p>"
 descargable: 
 album_cover: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+cancion_layout: true
 layout: cancion
 permalink: "/geancarlo-calderon/identidad/entrada-del-rey"
 ---

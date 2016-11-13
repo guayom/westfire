@@ -3058,6 +3058,7 @@ chords: "<p><span>ntro: G  G  Em  C  G</span></p><p>G</p><p>Mis temores se van, 
   veo tus ángeles cantando</p>"
 descargable: 
 album_cover: https://dato-images.imgix.net/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+cancion_layout: true
 layout: cancion
 permalink: "/fuego/abba/nada-que-temer"
 ---

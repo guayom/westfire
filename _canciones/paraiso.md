@@ -3057,6 +3057,7 @@ lyrics: "<p><span>La tierra paró de temblar</span></p><p>Allá en la montaña b
 chords: 
 descargable: 
 album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+cancion_layout: true
 layout: cancion
 permalink: "/ale-fdz/fracciones-de-luz/paraiso"
 ---

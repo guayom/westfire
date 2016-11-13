@@ -3069,6 +3069,7 @@ chords: "<p><span>Intro: G  Asus2  A/F#  G</span></p><p>G      Asus2            
   \                    Asus2</p><p>Refresca mi alma ven, eres bienvenido aquí</p>"
 descargable: 
 album_cover: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+cancion_layout: true
 layout: cancion
 permalink: "/fuego/fuego/cruzando"
 ---

@@ -3065,6 +3065,7 @@ chords: "<p><span>Intro: G  C</span></p><p>G                                    
   fuerza está en ti</p>"
 descargable: 
 album_cover: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+cancion_layout: true
 layout: cancion
 permalink: "/fuego/fuego/paz"
 ---
