@@ -50,6 +50,7 @@ directory "_canciones/" do
         lyrics: cancion.lyrics,
         chords: cancion.chords,
         descargable: cancion.descargable,
+        album_cover: cancion.album.cover.url(w: 150),
         layout: "cancion",
         permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.album.titulo.parameterize}/#{cancion.titulo.parameterize}"
       }

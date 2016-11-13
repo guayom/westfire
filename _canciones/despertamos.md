@@ -3059,6 +3059,7 @@ lyrics: "<p>Se que la tormenta ya va a pasar</p><p>Se que la marea nos va a llev
   con los soles y el mar</span></p>"
 chords: 
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/ale-fdz/fracciones-de-luz/despertamos"
 ---

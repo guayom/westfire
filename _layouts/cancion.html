@@ -1,10 +1,13 @@
 ---
 layout: default
+cancion: true
 ---
 <div class="container">
   <div class="row canciones">
     <div class="span4">
+      <img src="{{page.album_cover}}" alt="{{page.album}}" />
       <h2>Canciones en {{page.album}}</h2>
+
       <ul>
         {% for cancion in site.canciones %}
           {% if cancion.album == page.album %}
@@ -20,13 +23,13 @@ layout: default
     <div class="span8">
       <h1>{{page.title}}</h1>
       <ul class="nav nav-pills">
-        <li class="active"><a data-toggle="pill" href="#lyrics">Letra</a></li>
-        <li><a data-toggle="pill" href="#chords">Acordes</a></li>
+        {% if page.chords %}<li class="active"><a data-toggle="pill" href="#lyrics">Letra</a></li>
+        <li><a data-toggle="pill" href="#chords">Acordes</a></li>{% endif %}
       </ul>
 
       <div class="tab-content">
         <div id="lyrics" class="tab-pane fade in active">
-          <h3>Letra</h3>
+          {% if page.chords %}<h3>Letra</h3>{% endif %}
           {{page.lyrics}}
         </div>
         <div id="chords" class="tab-pane fade">

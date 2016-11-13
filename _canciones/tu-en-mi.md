@@ -3067,6 +3067,7 @@ chords: "<p><span>Intro.    F#9/G#      Cm#sus       E9/F#</span></p><p>F#9/G#  
   cada día ver tu amor, en mi corazón</p><p>                  Cm#sus</p><p>Cerca de
   mi, cerca de mi</p>"
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/geancarlo-calderon/identidad/tu-en-mi"
 ---

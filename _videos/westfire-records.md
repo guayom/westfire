@@ -16,4 +16,4 @@ thumbnail: https://i.ytimg.com/vi/MNrg8Y1lP4c/hqdefault.jpg
 permalink: "/videos/westfire-records"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fef68ef7d88>
+#<Dato::Local::FieldType::Video:0x007febced22de8>

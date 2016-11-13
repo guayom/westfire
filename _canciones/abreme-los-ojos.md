@@ -3052,6 +3052,7 @@ chords: "<p><span>Intro: G  C</span></p><p>G                      C      G      
   Este es tu hogar, ----- esta es tu casa,</p><p>G                                       C
   \ </p><p>gracias por estar acá, gracias por estar acá </p>"
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/fuego/fuego/abreme-los-ojos"
 ---

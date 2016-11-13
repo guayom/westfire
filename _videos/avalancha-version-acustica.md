@@ -3057,4 +3057,4 @@ thumbnail: https://i.ytimg.com/vi/KfcU26GiARg/hqdefault.jpg
 permalink: "/videos/avalancha-version-acustica"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fef6ca49f80>
+#<Dato::Local::FieldType::Video:0x007febced197c0>

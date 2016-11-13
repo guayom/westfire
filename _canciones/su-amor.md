@@ -3054,6 +3054,7 @@ lyrics: "<p><span>Nos deslizamos al fondo</span></p><p>Desenterramos tesoros que
   luces con su rostro</p>"
 chords: 
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/ale-fdz/fracciones-de-luz/su-amor"
 ---

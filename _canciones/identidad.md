@@ -3064,6 +3064,7 @@ chords: "<p><span>B</span></p><p>Tus palabras de amor, de aprobación,</p><p>Gm#
   necesidad, supliste por completo</p><p>Gm#                                                          E
   \      -   F#</p><p>Cuando intente llenar mi corazón con algo más</p>"
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/geancarlo-calderon/identidad/identidad"
 ---

@@ -3062,6 +3062,7 @@ chords: "<p><span>Intro: G C</span></p><p>G</p><p>Tu me has dado un corazón nue
   \      G                  C                A7sus4                C6     C</p><p>Levántate,
   levántate, levántate, maravilloso Dios</p>"
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/fuego/abba/mi-corazon-es-tu-hogar"
 ---

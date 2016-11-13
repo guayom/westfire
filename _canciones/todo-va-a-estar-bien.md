@@ -3064,6 +3064,7 @@ chords: "<p><span>Intro: G  C</span></p><p>C              G              D</p><p
   \                                    C   G         D</p><p>ven a llenar este lugar,
   luz y esperanza eres tu.</p>"
 descargable: 
+album_cover: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 layout: cancion
 permalink: "/fuego/fuego/todo-va-a-estar-bien"
 ---
