@@ -7,7 +7,7 @@ layout: default
       <img src="{{page.album_cover}}" alt="{{page.album}}" />
       <h2>Canciones en {{page.album}}</h2>
 
-      <ul>
+      <ul class="otras-canciones">
         {% for cancion in site.canciones %}
           {% if cancion.album == page.album %}
             {% if cancion.title == page.title %}

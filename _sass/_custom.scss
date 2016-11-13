@@ -37,3 +37,18 @@
     }
   }
 }
+.canciones .nav-pills{
+    a{
+      color: $naranja;
+    }
+    li.active a{
+      background-color: $naranja;
+      color: #fff;
+      &:hover{
+        background-color: darken($naranja, 10%);
+      }
+    }
+}
+.otras-canciones li a{
+  color: $naranja;
+}
