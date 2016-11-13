@@ -3057,4 +3057,4 @@ thumbnail: https://i.ytimg.com/vi/vzgTrLjZ8sM/hqdefault.jpg
 permalink: "/videos/permanecere-westfire-live"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fa0a3041be0>
+#<Dato::Local::FieldType::Video:0x007fb9ee4e0840>

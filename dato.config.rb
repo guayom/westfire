@@ -3,7 +3,7 @@ directory "_artistas/" do
     create_post "#{artist.nombre.parameterize}.md" do
       frontmatter :yaml, {
         title: artist.nombre,
-        imagen: artist.imagen,
+        imagen: artist.imagen.url,
         email: artist.email,
         instagram: artist.instagram,
         facebook: artist.facebook,

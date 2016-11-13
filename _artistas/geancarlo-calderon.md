@@ -1,11 +1,6 @@
 ---
 title: Geancarlo Calderón
-imagen: !ruby/object:Dato::Local::FieldType::Image
-  path: "/489/1478780362-Geanca.jpg"
-  format: jpg
-  size: 517612
-  width: 1500
-  height: 558
+imagen: https://dato-images.imgix.net/489/1478780362-Geanca.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: westfirerecords@gmail.com
 instagram: https://instagram.com/geancarlocalderon/
 facebook: https://www.facebook.com/geancarlo.calderon?fref=ts

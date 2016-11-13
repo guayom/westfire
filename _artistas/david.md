@@ -1,11 +1,6 @@
 ---
 title: David
-imagen: !ruby/object:Dato::Local::FieldType::Image
-  path: "/489/1478780215-David_2.jpg"
-  format: jpg
-  size: 600599
-  width: 1500
-  height: 558
+imagen: https://dato-images.imgix.net/489/1478780215-David_2.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: westfirerecords@gmail.com
 instagram: https://instagram.com/davebustamante/
 facebook: https://www.facebook.com/david.bustamante.714655?fref=ts

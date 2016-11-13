@@ -3057,4 +3057,4 @@ thumbnail: https://i.ytimg.com/vi/GyiImDQzFhU/hqdefault.jpg
 permalink: "/videos/nuestro-amigo-westfire-live"
 ---
 
-#<Dato::Local::FieldType::Video:0x007fa0a43992b0>
+#<Dato::Local::FieldType::Video:0x007fb9ee983820>
