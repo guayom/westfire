@@ -84,11 +84,11 @@ directory "_data/contacto" do
     email: dato.contacto.email
 end
 
-directory "_data/slides" do
+directory "_data/slider" do
   dato.slides.each do |slide|
-    create_data_file "{slide.slug}.yml", :yaml, {
+    create_data_file "#{slide.titulo.parameterize}.yml", :yaml, {
       title: slide.titulo,
-      imagen: slide.imagen,
+      imagen: slide.imagen.url,
       descripcion: slide.descripcion,
       url: slide.url
     }

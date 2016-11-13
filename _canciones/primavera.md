@@ -1,6 +1,6 @@
 ---
 title: Primavera
-artista: &85 !ruby/object:Dato::Local::Item
+artista: &93 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       id: '18354'
@@ -148,7 +148,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                 singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2901': &134 !ruby/object:Dato::Local::JsonApiEntity
+          '2901': &31 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2901'
               type: item_type
@@ -175,7 +175,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                 singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2900': &31 !ruby/object:Dato::Local::JsonApiEntity
+          '2900': &39 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2900'
               type: item_type
@@ -208,7 +208,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                 singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2899': &60 !ruby/object:Dato::Local::JsonApiEntity
+          '2899': &68 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2899'
               type: item_type
@@ -241,7 +241,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                 singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2854': &72 !ruby/object:Dato::Local::JsonApiEntity
+          '2854': &80 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2854'
               type: item_type
@@ -430,7 +430,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '3111'
                     type: item_type
             data_source: *1
-          '11572': !ruby/object:Dato::Local::JsonApiEntity
+          '11572': &32 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11572'
               type: field
@@ -450,7 +450,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2901'
                     type: item_type
             data_source: *1
-          '11573': !ruby/object:Dato::Local::JsonApiEntity
+          '11573': &33 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11573'
               type: field
@@ -470,7 +470,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2901'
                     type: item_type
             data_source: *1
-          '11574': !ruby/object:Dato::Local::JsonApiEntity
+          '11574': &34 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11574'
               type: field
@@ -490,7 +490,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2901'
                     type: item_type
             data_source: *1
-          '11575': !ruby/object:Dato::Local::JsonApiEntity
+          '11575': &35 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11575'
               type: field
@@ -513,7 +513,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2901'
                     type: item_type
             data_source: *1
-          '11566': &32 !ruby/object:Dato::Local::JsonApiEntity
+          '11566': &40 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11566'
               type: field
@@ -533,7 +533,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11567': &33 !ruby/object:Dato::Local::JsonApiEntity
+          '11567': &41 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11567'
               type: field
@@ -556,7 +556,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11568': &34 !ruby/object:Dato::Local::JsonApiEntity
+          '11568': &42 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11568'
               type: field
@@ -579,7 +579,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11569': &35 !ruby/object:Dato::Local::JsonApiEntity
+          '11569': &43 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11569'
               type: field
@@ -599,7 +599,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11570': &36 !ruby/object:Dato::Local::JsonApiEntity
+          '11570': &44 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11570'
               type: field
@@ -619,7 +619,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11571': &37 !ruby/object:Dato::Local::JsonApiEntity
+          '11571': &45 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11571'
               type: field
@@ -638,7 +638,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11560': &61 !ruby/object:Dato::Local::JsonApiEntity
+          '11560': &69 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11560'
               type: field
@@ -658,7 +658,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11561': &62 !ruby/object:Dato::Local::JsonApiEntity
+          '11561': &70 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11561'
               type: field
@@ -681,7 +681,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11562': &63 !ruby/object:Dato::Local::JsonApiEntity
+          '11562': &71 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11562'
               type: field
@@ -701,7 +701,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11563': &64 !ruby/object:Dato::Local::JsonApiEntity
+          '11563': &72 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11563'
               type: field
@@ -721,7 +721,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11564': &65 !ruby/object:Dato::Local::JsonApiEntity
+          '11564': &73 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11564'
               type: field
@@ -743,7 +743,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11565': &66 !ruby/object:Dato::Local::JsonApiEntity
+          '11565': &74 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11565'
               type: field
@@ -765,7 +765,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11366': &73 !ruby/object:Dato::Local::JsonApiEntity
+          '11366': &81 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11366'
               type: field
@@ -787,7 +787,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11367': &74 !ruby/object:Dato::Local::JsonApiEntity
+          '11367': &82 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11367'
               type: field
@@ -807,7 +807,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11368': &75 !ruby/object:Dato::Local::JsonApiEntity
+          '11368': &83 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11368'
               type: field
@@ -827,7 +827,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11557': &76 !ruby/object:Dato::Local::JsonApiEntity
+          '11557': &84 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11557'
               type: field
@@ -849,7 +849,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11369': &77 !ruby/object:Dato::Local::JsonApiEntity
+          '11369': &85 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11369'
               type: field
@@ -871,7 +871,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11370': &78 !ruby/object:Dato::Local::JsonApiEntity
+          '11370': &86 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11370'
               type: field
@@ -893,7 +893,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11554': &79 !ruby/object:Dato::Local::JsonApiEntity
+          '11554': &87 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11554'
               type: field
@@ -915,7 +915,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11555': &80 !ruby/object:Dato::Local::JsonApiEntity
+          '11555': &88 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11555'
               type: field
@@ -937,7 +937,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11556': &81 !ruby/object:Dato::Local::JsonApiEntity
+          '11556': &89 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11556'
               type: field
@@ -960,6 +960,75 @@ artista: &85 !ruby/object:Dato::Local::Item
                     type: item_type
             data_source: *1
         item:
+          '21070': &30 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '21070'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-13T15:04:30.110Z'
+                is_valid: true
+                url: ''
+                descripcion: 
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1479049450-BannerWF.jpg"
+                  size: 429805
+                  width: 1500
+                  format: jpg
+                  height: 558
+                titulo: Westfire
+                position: 3
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2901'
+                    type: item_type
+            data_source: *1
+          '21069': &36 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '21069'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-13T15:03:56.408Z'
+                is_valid: true
+                url: https://westfirerecords.com/fuego/abba/
+                descripcion: 
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1479049393-BannerABBA.png"
+                  size: 682625
+                  width: 1500
+                  format: png
+                  height: 558
+                titulo: Abba disco
+                position: 2
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2901'
+                    type: item_type
+            data_source: *1
+          '21068': &37 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '21068'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-13T15:01:39.097Z'
+                is_valid: true
+                url: https://westfirerecords.com/geancarlo-calderon/identidad/
+                descripcion: 
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1479049247-BannerGK.jpg"
+                  size: 892409
+                  width: 1500
+                  format: jpg
+                  height: 558
+                titulo: Geancarlo Calderón
+                position: 1
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2901'
+                    type: item_type
+            data_source: *1
           '20808': &3 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20808'
@@ -1376,7 +1445,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '3111'
                     type: item_type
             data_source: *1
-          '20600': &30 !ruby/object:Dato::Local::JsonApiEntity
+          '20600': &38 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20600'
               type: item
@@ -1407,7 +1476,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20599': &38 !ruby/object:Dato::Local::JsonApiEntity
+          '20599': &46 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20599'
               type: item
@@ -1438,7 +1507,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20598': &39 !ruby/object:Dato::Local::JsonApiEntity
+          '20598': &47 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20598'
               type: item
@@ -1483,7 +1552,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20597': &40 !ruby/object:Dato::Local::JsonApiEntity
+          '20597': &48 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20597'
               type: item
@@ -1524,7 +1593,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20596': &41 !ruby/object:Dato::Local::JsonApiEntity
+          '20596': &49 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20596'
               type: item
@@ -1547,7 +1616,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20595': &42 !ruby/object:Dato::Local::JsonApiEntity
+          '20595': &50 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20595'
               type: item
@@ -1575,7 +1644,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20594': &43 !ruby/object:Dato::Local::JsonApiEntity
+          '20594': &51 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20594'
               type: item
@@ -1606,7 +1675,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20593': &44 !ruby/object:Dato::Local::JsonApiEntity
+          '20593': &52 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20593'
               type: item
@@ -1636,7 +1705,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20592': &45 !ruby/object:Dato::Local::JsonApiEntity
+          '20592': &53 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20592'
               type: item
@@ -1673,7 +1742,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20590': &46 !ruby/object:Dato::Local::JsonApiEntity
+          '20590': &54 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20590'
               type: item
@@ -1707,7 +1776,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20589': &47 !ruby/object:Dato::Local::JsonApiEntity
+          '20589': &55 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20589'
               type: item
@@ -1737,7 +1806,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20588': &48 !ruby/object:Dato::Local::JsonApiEntity
+          '20588': &56 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20588'
               type: item
@@ -1786,7 +1855,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20587': &49 !ruby/object:Dato::Local::JsonApiEntity
+          '20587': &57 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20587'
               type: item
@@ -1818,7 +1887,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20586': &50 !ruby/object:Dato::Local::JsonApiEntity
+          '20586': &58 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20586'
               type: item
@@ -1860,7 +1929,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20585': &51 !ruby/object:Dato::Local::JsonApiEntity
+          '20585': &59 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20585'
               type: item
@@ -1895,7 +1964,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20584': &52 !ruby/object:Dato::Local::JsonApiEntity
+          '20584': &60 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20584'
               type: item
@@ -1922,7 +1991,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20583': &53 !ruby/object:Dato::Local::JsonApiEntity
+          '20583': &61 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20583'
               type: item
@@ -1963,7 +2032,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20582': &54 !ruby/object:Dato::Local::JsonApiEntity
+          '20582': &62 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20582'
               type: item
@@ -2003,7 +2072,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20581': &55 !ruby/object:Dato::Local::JsonApiEntity
+          '20581': &63 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20581'
               type: item
@@ -2044,7 +2113,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20580': &56 !ruby/object:Dato::Local::JsonApiEntity
+          '20580': &64 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20580'
               type: item
@@ -2088,7 +2157,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20579': &57 !ruby/object:Dato::Local::JsonApiEntity
+          '20579': &65 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20579'
               type: item
@@ -2120,7 +2189,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20578': &58 !ruby/object:Dato::Local::JsonApiEntity
+          '20578': &66 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20578'
               type: item
@@ -2161,7 +2230,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20577': &59 !ruby/object:Dato::Local::JsonApiEntity
+          '20577': &67 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20577'
               type: item
@@ -2192,7 +2261,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20576': &67 !ruby/object:Dato::Local::JsonApiEntity
+          '20576': &75 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20576'
               type: item
@@ -2220,7 +2289,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20575': &68 !ruby/object:Dato::Local::JsonApiEntity
+          '20575': &76 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20575'
               type: item
@@ -2248,7 +2317,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20574': &69 !ruby/object:Dato::Local::JsonApiEntity
+          '20574': &77 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20574'
               type: item
@@ -2275,7 +2344,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20573': &70 !ruby/object:Dato::Local::JsonApiEntity
+          '20573': &78 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20573'
               type: item
@@ -2303,7 +2372,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20563': &71 !ruby/object:Dato::Local::JsonApiEntity
+          '20563': &79 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20563'
               type: item
@@ -2333,7 +2402,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '20562': &82 !ruby/object:Dato::Local::JsonApiEntity
+          '20562': &90 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20562'
               type: item
@@ -2371,7 +2440,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '18356': &83 !ruby/object:Dato::Local::JsonApiEntity
+          '18356': &91 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '18356'
               type: item
@@ -2404,7 +2473,7 @@ artista: &85 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '20561': &84 !ruby/object:Dato::Local::JsonApiEntity
+          '20561': &92 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20561'
               type: item
@@ -2452,7 +2521,7 @@ artista: &85 !ruby/object:Dato::Local::Item
   items_repo: &4 !ruby/object:Dato::Local::ItemsRepo
     entities_repo: *1
     collections_by_type:
-      :contacto: &86 !ruby/object:Dato::Local::Item
+      :contacto: &97 !ruby/object:Dato::Local::Item
         entity: *3
         items_repo: *4
         item_type: *5
@@ -2461,7 +2530,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *7
         - *8
       :videos: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &87 !ruby/object:Dato::Local::Item
+      - &98 !ruby/object:Dato::Local::Item
         entity: *9
         items_repo: *4
         item_type: *10
@@ -2470,7 +2539,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &88 !ruby/object:Dato::Local::Item
+      - &99 !ruby/object:Dato::Local::Item
         entity: *15
         items_repo: *4
         item_type: *10
@@ -2479,7 +2548,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &89 !ruby/object:Dato::Local::Item
+      - &100 !ruby/object:Dato::Local::Item
         entity: *16
         items_repo: *4
         item_type: *10
@@ -2488,7 +2557,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &90 !ruby/object:Dato::Local::Item
+      - &101 !ruby/object:Dato::Local::Item
         entity: *17
         items_repo: *4
         item_type: *10
@@ -2497,7 +2566,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &91 !ruby/object:Dato::Local::Item
+      - &102 !ruby/object:Dato::Local::Item
         entity: *18
         items_repo: *4
         item_type: *10
@@ -2506,7 +2575,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &92 !ruby/object:Dato::Local::Item
+      - &103 !ruby/object:Dato::Local::Item
         entity: *19
         items_repo: *4
         item_type: *10
@@ -2515,7 +2584,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &93 !ruby/object:Dato::Local::Item
+      - &104 !ruby/object:Dato::Local::Item
         entity: *20
         items_repo: *4
         item_type: *10
@@ -2524,7 +2593,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &94 !ruby/object:Dato::Local::Item
+      - &105 !ruby/object:Dato::Local::Item
         entity: *21
         items_repo: *4
         item_type: *10
@@ -2533,7 +2602,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &95 !ruby/object:Dato::Local::Item
+      - &106 !ruby/object:Dato::Local::Item
         entity: *22
         items_repo: *4
         item_type: *10
@@ -2542,7 +2611,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &96 !ruby/object:Dato::Local::Item
+      - &107 !ruby/object:Dato::Local::Item
         entity: *23
         items_repo: *4
         item_type: *10
@@ -2551,7 +2620,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &97 !ruby/object:Dato::Local::Item
+      - &108 !ruby/object:Dato::Local::Item
         entity: *24
         items_repo: *4
         item_type: *10
@@ -2560,7 +2629,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &98 !ruby/object:Dato::Local::Item
+      - &109 !ruby/object:Dato::Local::Item
         entity: *25
         items_repo: *4
         item_type: *10
@@ -2569,7 +2638,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &99 !ruby/object:Dato::Local::Item
+      - &110 !ruby/object:Dato::Local::Item
         entity: *26
         items_repo: *4
         item_type: *10
@@ -2578,7 +2647,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &100 !ruby/object:Dato::Local::Item
+      - &111 !ruby/object:Dato::Local::Item
         entity: *27
         items_repo: *4
         item_type: *10
@@ -2587,7 +2656,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &101 !ruby/object:Dato::Local::Item
+      - &112 !ruby/object:Dato::Local::Item
         entity: *28
         items_repo: *4
         item_type: *10
@@ -2596,7 +2665,7 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &102 !ruby/object:Dato::Local::Item
+      - &113 !ruby/object:Dato::Local::Item
         entity: *29
         items_repo: *4
         item_type: *10
@@ -2605,9 +2674,8 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection []
-      :canciones: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &103 !ruby/object:Dato::Local::Item
+      :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &94 !ruby/object:Dato::Local::Item
         entity: *30
         items_repo: *4
         item_type: *31
@@ -2616,403 +2684,434 @@ artista: &85 !ruby/object:Dato::Local::Item
         - *33
         - *34
         - *35
-        - *36
-        - *37
-      - &104 !ruby/object:Dato::Local::Item
+      - &95 !ruby/object:Dato::Local::Item
+        entity: *36
+        items_repo: *4
+        item_type: *31
+        fields:
+        - *32
+        - *33
+        - *34
+        - *35
+      - &96 !ruby/object:Dato::Local::Item
+        entity: *37
+        items_repo: *4
+        item_type: *31
+        fields:
+        - *32
+        - *33
+        - *34
+        - *35
+      :canciones: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &114 !ruby/object:Dato::Local::Item
         entity: *38
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &105 !ruby/object:Dato::Local::Item
-        entity: *39
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &106 !ruby/object:Dato::Local::Item
-        entity: *40
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &107 !ruby/object:Dato::Local::Item
-        entity: *41
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &108 !ruby/object:Dato::Local::Item
-        entity: *42
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &109 !ruby/object:Dato::Local::Item
-        entity: *43
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &110 !ruby/object:Dato::Local::Item
-        entity: *44
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &111 !ruby/object:Dato::Local::Item
-        entity: *45
-        items_repo: *4
-        item_type: *31
-        fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &112 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &115 !ruby/object:Dato::Local::Item
         entity: *46
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &113 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &116 !ruby/object:Dato::Local::Item
         entity: *47
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &114 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &117 !ruby/object:Dato::Local::Item
         entity: *48
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &115 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &118 !ruby/object:Dato::Local::Item
         entity: *49
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &116 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &119 !ruby/object:Dato::Local::Item
         entity: *50
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &117 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &120 !ruby/object:Dato::Local::Item
         entity: *51
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &118 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &121 !ruby/object:Dato::Local::Item
         entity: *52
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &119 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &122 !ruby/object:Dato::Local::Item
         entity: *53
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &120 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &123 !ruby/object:Dato::Local::Item
         entity: *54
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &121 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &124 !ruby/object:Dato::Local::Item
         entity: *55
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &122 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &125 !ruby/object:Dato::Local::Item
         entity: *56
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &123 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &126 !ruby/object:Dato::Local::Item
         entity: *57
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      - &124 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &127 !ruby/object:Dato::Local::Item
         entity: *58
         items_repo: *4
-        item_type: *31
+        item_type: *39
         fields:
-        - *32
-        - *33
-        - *34
-        - *35
-        - *36
-        - *37
-      :albums: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &125 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &128 !ruby/object:Dato::Local::Item
         entity: *59
         items_repo: *4
-        item_type: *60
+        item_type: *39
         fields:
-        - *61
-        - *62
-        - *63
-        - *64
-        - *65
-        - *66
-      - &126 !ruby/object:Dato::Local::Item
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &129 !ruby/object:Dato::Local::Item
+        entity: *60
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &130 !ruby/object:Dato::Local::Item
+        entity: *61
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &131 !ruby/object:Dato::Local::Item
+        entity: *62
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &132 !ruby/object:Dato::Local::Item
+        entity: *63
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &133 !ruby/object:Dato::Local::Item
+        entity: *64
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &134 !ruby/object:Dato::Local::Item
+        entity: *65
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      - &135 !ruby/object:Dato::Local::Item
+        entity: *66
+        items_repo: *4
+        item_type: *39
+        fields:
+        - *40
+        - *41
+        - *42
+        - *43
+        - *44
+        - *45
+      :albums: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &136 !ruby/object:Dato::Local::Item
         entity: *67
         items_repo: *4
-        item_type: *60
+        item_type: *68
         fields:
-        - *61
-        - *62
-        - *63
-        - *64
-        - *65
-        - *66
-      - &127 !ruby/object:Dato::Local::Item
-        entity: *68
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &137 !ruby/object:Dato::Local::Item
+        entity: *75
         items_repo: *4
-        item_type: *60
+        item_type: *68
         fields:
-        - *61
-        - *62
-        - *63
-        - *64
-        - *65
-        - *66
-      - &128 !ruby/object:Dato::Local::Item
-        entity: *69
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &138 !ruby/object:Dato::Local::Item
+        entity: *76
         items_repo: *4
-        item_type: *60
+        item_type: *68
         fields:
-        - *61
-        - *62
-        - *63
-        - *64
-        - *65
-        - *66
-      - &129 !ruby/object:Dato::Local::Item
-        entity: *70
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &139 !ruby/object:Dato::Local::Item
+        entity: *77
         items_repo: *4
-        item_type: *60
+        item_type: *68
         fields:
-        - *61
-        - *62
-        - *63
-        - *64
-        - *65
-        - *66
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
+      - &140 !ruby/object:Dato::Local::Item
+        entity: *78
+        items_repo: *4
+        item_type: *68
+        fields:
+        - *69
+        - *70
+        - *71
+        - *72
+        - *73
+        - *74
       :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &130 !ruby/object:Dato::Local::Item
-        entity: *71
+      - &141 !ruby/object:Dato::Local::Item
+        entity: *79
         items_repo: *4
-        item_type: *72
+        item_type: *80
         fields:
-        - *73
-        - *74
-        - *75
-        - *76
-        - *77
-        - *78
-        - *79
-        - *80
         - *81
-      - &131 !ruby/object:Dato::Local::Item
-        entity: *82
+        - *82
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+      - &142 !ruby/object:Dato::Local::Item
+        entity: *90
         items_repo: *4
-        item_type: *72
+        item_type: *80
         fields:
-        - *73
-        - *74
-        - *75
-        - *76
-        - *77
-        - *78
-        - *79
-        - *80
         - *81
-      - &132 !ruby/object:Dato::Local::Item
-        entity: *83
+        - *82
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+      - &143 !ruby/object:Dato::Local::Item
+        entity: *91
         items_repo: *4
-        item_type: *72
+        item_type: *80
         fields:
-        - *73
-        - *74
-        - *75
-        - *76
-        - *77
-        - *78
-        - *79
-        - *80
         - *81
-      - &133 !ruby/object:Dato::Local::Item
-        entity: *84
+        - *82
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+      - &144 !ruby/object:Dato::Local::Item
+        entity: *92
         items_repo: *4
-        item_type: *72
+        item_type: *80
         fields:
-        - *73
-        - *74
-        - *75
-        - *76
-        - *77
-        - *78
-        - *79
-        - *80
         - *81
-      - *85
+        - *82
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+      - *93
     items_by_id:
-      '20808': *86
-      '20618': *87
-      '20617': *88
-      '20616': *89
-      '20613': *90
-      '20612': *91
-      '20611': *92
-      '20610': *93
-      '20609': *94
-      '20608': *95
-      '20607': *96
-      '20606': *97
-      '20605': *98
-      '20604': *99
-      '20603': *100
-      '20602': *101
-      '20601': *102
-      '20600': *103
-      '20599': *104
-      '20598': *105
-      '20597': *106
-      '20596': *107
-      '20595': *108
-      '20594': *109
-      '20593': *110
-      '20592': *111
-      '20590': *112
-      '20589': *113
-      '20588': *114
-      '20587': *115
-      '20586': *116
-      '20585': *117
-      '20584': *118
-      '20583': *119
-      '20582': *120
-      '20581': *121
-      '20580': *122
-      '20579': *123
-      '20578': *124
-      '20577': *125
-      '20576': *126
-      '20575': *127
-      '20574': *128
-      '20573': *129
-      '20563': *130
-      '20562': *131
-      '18356': *132
-      '20561': *133
-      '18354': *85
+      '21070': *94
+      '21069': *95
+      '21068': *96
+      '20808': *97
+      '20618': *98
+      '20617': *99
+      '20616': *100
+      '20613': *101
+      '20612': *102
+      '20611': *103
+      '20610': *104
+      '20609': *105
+      '20608': *106
+      '20607': *107
+      '20606': *108
+      '20605': *109
+      '20604': *110
+      '20603': *111
+      '20602': *112
+      '20601': *113
+      '20600': *114
+      '20599': *115
+      '20598': *116
+      '20597': *117
+      '20596': *118
+      '20595': *119
+      '20594': *120
+      '20593': *121
+      '20592': *122
+      '20590': *123
+      '20589': *124
+      '20588': *125
+      '20587': *126
+      '20586': *127
+      '20585': *128
+      '20584': *129
+      '20583': *130
+      '20582': *131
+      '20581': *132
+      '20580': *133
+      '20579': *134
+      '20578': *135
+      '20577': *136
+      '20576': *137
+      '20575': *138
+      '20574': *139
+      '20573': *140
+      '20563': *141
+      '20562': *142
+      '18356': *143
+      '20561': *144
+      '18354': *93
     item_type_methods:
       *5:
       - :contacto
@@ -3020,29 +3119,29 @@ artista: &85 !ruby/object:Dato::Local::Item
       *10:
       - :videos
       - false
-      *134:
+      *31:
       - :slides
       - false
-      *31:
+      *39:
       - :canciones
       - false
-      *60:
+      *68:
       - :albums
       - false
-      *72:
+      *80:
       - :artistas
       - false
-  item_type: *72
+  item_type: *80
   fields:
-  - *73
-  - *74
-  - *75
-  - *76
-  - *77
-  - *78
-  - *79
-  - *80
   - *81
+  - *82
+  - *83
+  - *84
+  - *85
+  - *86
+  - *87
+  - *88
+  - *89
 album: 'Fracciones de Luz '
 lyrics: "<p><span>Sigo a la espera</span></p><p>A que regreses del mar</p><p>Regreses
   para quedarte</p><p>Ya estás tan cerca</p><p>La primavera se va</p><p>Regresas pará

@@ -1,34 +1,29 @@
-<div class="row-fluid slider-container">
-<div class="sy-box"><div class="sy-slides-wrap"><div class="sy-slides-crop"><ul id="slider" class="sy-list">
-<li class="sy-slide fade useCSS sy-active" style="transition-duration: 800ms; opacity: 1;">
-<a href="http://westfirerecords.com/#">
-    <img src="./Home_files/BannerGK.jpg" alt="Identidadpromo">
-</a>
-</li>
-<li class="sy-slide fade useCSS" style="transition-duration: 800ms; opacity: 0;">
-<a href="http://westfirerecords.com/#">
-    <img src="./Home_files/BannerABBA+.png" alt="Abba">
-</a>
-</li>
-<li class="sy-slide fade useCSS" style="transition-duration: 800ms; opacity: 0;">
-<a href="http://westfirerecords.com/#">
-    <img src="./Home_files/BannerWF+.jpg" alt="Banner WFR">
-</a>
-</li>
-</ul></div><ul class="sy-controls"><li class="sy-prev"><a href="http://westfirerecords.com/#prev">Previous</a></li><li class="sy-next"><a href="http://westfirerecords.com/#next">Next</a></li></ul><div class="sy-filler ready" style="padding-top: 37.1946%;"></div></div><ul class="sy-pager"><li class="sy-active"><a href="http://westfirerecords.com/#1">1</a></li><li class=""><a href="http://westfirerecords.com/#2">2</a></li><li class=""><a href="http://westfirerecords.com/#3">3</a></li></ul></div>
-<script type="text/javascript">
-(function($){
+<!-- <div class="row-fluid slider-container">
+  <ul id="slider" class="sy-list"> -->
+<div class="container">
+  <ul>
+    {% for slide in site.data.slides %}
+      - {{ slide | debug }} -
+      ///{{ slide.first.title }}///
+      <li><img src="{{slide.imagen}}" alt="{{slide.title}}" /></li>
+    {% endfor %}
+  </ul>
 
-jQuery(document).ready(function(){
-jQuery('#slider').slippry({
-//Captions
-captions:false,
+  {{ site.data.slides | inspect }}
 
-//Pager
-pager:true
-});
-});
+  <script type="text/javascript">
+  (function($){
 
-})(jQuery);
-</script>
+  jQuery(document).ready(function(){
+  jQuery('#slider').slippry({
+  //Captions
+  captions:false,
+
+  //Pager
+  pager:true
+  });
+  });
+
+  })(jQuery);
+  </script>
 </div>
