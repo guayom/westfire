@@ -12,7 +12,8 @@ directory "_artistas/" do
         bandcamp: artist.bandcamp,
         layout: "artist",
         permalink: "/#{artist.nombre.parameterize}/",
-        thumbnail: artist.imagen.url(w: 370)
+        thumbnail: artist.imagen.url(w: 370),
+        menuitem: "Artistas"
       }
 
       content artist.descripcion
@@ -32,7 +33,8 @@ directory "_albums/" do
         layout: "album",
         permalink: "/#{album.artista.nombre.parameterize}/#{album.titulo.parameterize}/",
         thumbnail: album.cover.url(w: 370),
-        thumbnail_canciones: album.cover.url(w: 285)
+        thumbnail_canciones: album.cover.url(w: 285),
+        menuitem: "Álbums"
       }
 
       content album.descripcion
@@ -52,6 +54,7 @@ directory "_canciones/" do
         descargable: cancion.descargable,
         album_cover: cancion.album.cover.url(w: 150),
         cancion_layout: true,
+        menuitem: "Canciones",
         layout: "cancion",
         permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.album.titulo.parameterize}/#{cancion.titulo.parameterize}"
       }
@@ -69,7 +72,8 @@ directory "_videos/" do
         video: video.video.iframe_embed(1170, 658),
         layout: "video",
         thumbnail: video.video.thumbnail_url,
-        permalink: "/videos/#{video.titulo.parameterize}"
+        permalink: "/videos/#{video.titulo.parameterize}",
+        menuitem: "Vídeos"
       }
 
       content video.video

@@ -49,7 +49,7 @@ artista: &91 !ruby/object:Dato::Local::Item
                 global_seo: 
                 favicon: 
                 no_index: false
-                ssg: 
+                ssg: jekyll
               relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                 account: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -962,6 +962,22 @@ artista: &91 !ruby/object:Dato::Local::Item
                     type: item_type
             data_source: *1
         item:
+          '20808': &3 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '20808'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-13T17:08:05.277Z'
+                is_valid: true
+                telefono: '22334466'
+                email: info@westfirerecords.com
+                direccion: "<p><em></em>Lorem Ipsum</p><p>Lorem</p>"
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '3155'
+                    type: item_type
+            data_source: *1
           '21070': &30 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '21070'
@@ -1029,22 +1045,6 @@ artista: &91 !ruby/object:Dato::Local::Item
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '2901'
-                    type: item_type
-            data_source: *1
-          '20808': &3 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '20808'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-11-12T01:16:04.434Z'
-                is_valid: true
-                telefono: '22222222'
-                email: info@westfirerecords.com
-                direccion: "<p><em></em>Lorem Ipsum</p><p>Lorem</p>"
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '3155'
                     type: item_type
             data_source: *1
           '20618': &9 !ruby/object:Dato::Local::JsonApiEntity
@@ -2520,7 +2520,7 @@ artista: &91 !ruby/object:Dato::Local::Item
   items_repo: &4 !ruby/object:Dato::Local::ItemsRepo
     entities_repo: *1
     collections_by_type:
-      :contacto: &97 !ruby/object:Dato::Local::Item
+      :contacto: &94 !ruby/object:Dato::Local::Item
         entity: *3
         items_repo: *4
         item_type: *5
@@ -2674,7 +2674,7 @@ artista: &91 !ruby/object:Dato::Local::Item
         - *13
         - *14
       :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &94 !ruby/object:Dato::Local::Item
+      - &95 !ruby/object:Dato::Local::Item
         entity: *30
         items_repo: *4
         item_type: *31
@@ -2683,7 +2683,7 @@ artista: &91 !ruby/object:Dato::Local::Item
         - *33
         - *34
         - *35
-      - &95 !ruby/object:Dato::Local::Item
+      - &96 !ruby/object:Dato::Local::Item
         entity: *36
         items_repo: *4
         item_type: *31
@@ -2692,7 +2692,7 @@ artista: &91 !ruby/object:Dato::Local::Item
         - *33
         - *34
         - *35
-      - &96 !ruby/object:Dato::Local::Item
+      - &97 !ruby/object:Dato::Local::Item
         entity: *37
         items_repo: *4
         item_type: *31
@@ -3059,10 +3059,10 @@ artista: &91 !ruby/object:Dato::Local::Item
         - *88
         - *89
     items_by_id:
-      '21070': *94
-      '21069': *95
-      '21068': *96
-      '20808': *97
+      '20808': *94
+      '21070': *95
+      '21069': *96
+      '21068': *97
       '20618': *98
       '20617': *99
       '20616': *100
@@ -3147,6 +3147,7 @@ video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/giBMM
 layout: video
 thumbnail: https://i.ytimg.com/vi/giBMM70DywQ/hqdefault.jpg
 permalink: "/videos/no-hay-nada-que-temer"
+menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007fd9d4aba008>
+#<Dato::Local::FieldType::Video:0x007fd155f61930>

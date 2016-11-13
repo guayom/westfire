@@ -17,7 +17,7 @@
               {% for node in site.data.navigation %}
                 {% if page.url == node.link %}
                   <li class="current active"><a href="{{node.link}}">{{node.title}}</a></li>
-                {% elsif node.title == "Canciones" and page.cancion_layout == true %}
+                {% elsif node.title == page.menuitem %}
                   <li class="current active"><a href="{{node.link}}">{{node.title}}</a></li>
                 {% else %}
                   <li><a href="{{node.link}}">{{node.title}}</a></li>
