@@ -33,6 +33,12 @@
     }
   }
 }
+.social a{
+  color: $naranja;
+  &:hover{
+    color: darken($naranja, 10%);
+  }
+}
 .canciones .nav-pills{
     a{
       color: $naranja;
