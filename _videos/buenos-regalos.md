@@ -1,5 +1,6 @@
 ---
 title: Buenos regalos
+position: 1
 artista: &92 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/buenos-regalos"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98c9f8fea8>
+#<Dato::Local::FieldType::Video:0x007fb9c5131420>

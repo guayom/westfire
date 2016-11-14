@@ -1,5 +1,6 @@
 ---
 title: Eres El Mismo
+position: 15
 artista: &81 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3219,4 +3220,4 @@ permalink: "/videos/eres-el-mismo"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98cc5aa200>
+#<Dato::Local::FieldType::Video:0x007fb9c4c39008>

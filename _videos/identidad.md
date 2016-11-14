@@ -1,5 +1,6 @@
 ---
 title: Identidad
+position: 10
 artista: &92 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/identidad"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98c9fdf430>
+#<Dato::Local::FieldType::Video:0x007fb9c4c01e00>

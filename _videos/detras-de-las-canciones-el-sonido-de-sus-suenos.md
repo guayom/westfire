@@ -1,5 +1,6 @@
 ---
 title: 'Detrás de las Canciones: El Sonido de Sus Sueños'
+position: 8
 artista: &95 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3219,4 +3220,4 @@ permalink: "/videos/detras-de-las-canciones-el-sonido-de-sus-suenos"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98c9fc60c0>
+#<Dato::Local::FieldType::Video:0x007fb9c4be07c8>

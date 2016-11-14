@@ -1,5 +1,6 @@
 ---
 title: Voy Cruzando (Desierto)
+position: 5
 artista: &93 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/voy-cruzando-desierto"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98cc540198>
+#<Dato::Local::FieldType::Video:0x007fb9c4baa718>

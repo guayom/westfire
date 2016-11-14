@@ -1,5 +1,6 @@
 ---
 title: '"Permaneceré" - Westfire Live'
+position: 14
 artista: &93 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/permanecere-westfire-live"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98c9fef9e8>
+#<Dato::Local::FieldType::Video:0x007fb9c4c226c8>

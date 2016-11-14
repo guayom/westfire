@@ -1,5 +1,6 @@
 ---
 title: '"Nuestro Amigo" - Westfire Live'
+position: 11
 artista: &93 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/nuestro-amigo-westfire-live"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98cc570578>
+#<Dato::Local::FieldType::Video:0x007fb9c4c0aed8>

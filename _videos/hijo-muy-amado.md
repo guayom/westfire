@@ -1,5 +1,6 @@
 ---
 title: Hijo Muy Amado
+position: 12
 artista: &92 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/hijo-muy-amado"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98cc583830>
+#<Dato::Local::FieldType::Video:0x007fb9c4c11a80>

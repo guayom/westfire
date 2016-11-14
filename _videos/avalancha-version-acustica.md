@@ -1,5 +1,6 @@
 ---
 title: Avalancha (Versión Acústica)
+position: 6
 artista: &93 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -3218,4 +3219,4 @@ permalink: "/videos/avalancha-version-acustica"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f98cb0d5bb8>
+#<Dato::Local::FieldType::Video:0x007fb9c4bb81d8>

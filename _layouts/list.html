@@ -14,7 +14,7 @@ layout: default
           {% when 'Álbums' %}
             {% assign collection = site.albums %}
           {% when 'Vídeos' %}
-            {% assign collection = site.videos %}
+            {% assign collection = site.videos | sort: 'position' | reverse %}
         {% endcase %}
         {% for item in collection %}
           {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}

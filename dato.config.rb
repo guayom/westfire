@@ -67,6 +67,7 @@ directory "_videos/" do
     create_post "#{video.titulo.parameterize}.md" do
       frontmatter :yaml, {
         title: video.titulo,
+        position: video.position,
         artista: video.artista,
         album: video.album,
         video: video.video.iframe_embed(1170, 658),
