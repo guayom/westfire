@@ -9,7 +9,7 @@ layout: default
     <ul class="items_list clearfix">
       <div class='row'>
         {% for album in site.albums %}
-          {% assign canciones = site.canciones | where: "album", album.title | sort: 'position' %}
+          {% assign canciones = site.canciones | where: "album", album.title %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% unless canciones.size == 0 %}
             <div class="album_container span6">

@@ -1,6 +1,6 @@
 <div class="row-fluid slider-container">
   <ul id="slider" class="sy-list">
-    {% for slide in site.data.slider %}
+    {% for slide in site.data.slider | sort: 'position' %}
       <li><img src="{{slide[1].imagen}}" alt="{{slide[1].title}}" /></li>
     {% endfor %}
   </ul>
