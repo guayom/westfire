@@ -10,9 +10,9 @@ layout: default
       <div class='row'>
         {% case page.title %}
           {% when 'Artistas' %}
-             {% assign collection = site.artistas %}
+             {% assign collection = site.artistas | sort: 'position' %}
           {% when 'Álbums' %}
-            {% assign collection = site.albums %}
+            {% assign collection = site.albums | sort: 'position' %}
           {% when 'Vídeos' %}
             {% assign collection = site.videos | sort: 'position' | reverse %}
         {% endcase %}

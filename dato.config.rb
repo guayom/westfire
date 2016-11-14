@@ -3,6 +3,7 @@ directory "_artistas/" do
     create_post "#{artist.nombre.parameterize}.md" do
       frontmatter :yaml, {
         title: artist.nombre,
+        position: artist.position,
         imagen: artist.imagen.url,
         email: artist.email,
         instagram: artist.instagram,
@@ -26,6 +27,7 @@ directory "_albums/" do
     create_post "#{album.titulo.parameterize}.md" do
       frontmatter :yaml, {
         title: album.titulo,
+        position: album.position,
         artista: album.artista.nombre,
         cover: album.cover.url,
         itunes: album.itunes,
@@ -47,6 +49,7 @@ directory "_canciones/" do
     create_post "#{cancion.titulo.parameterize}.md" do
       frontmatter :yaml, {
         title: cancion.titulo,
+        position: cancion.position,
         artista: cancion.artista,
         album: cancion.album.titulo,
         lyrics: cancion.lyrics,
@@ -93,6 +96,7 @@ directory "_data/slider" do
   dato.slides.each do |slide|
     create_data_file "#{slide.titulo.parameterize}.yml", :yaml, {
       title: slide.titulo,
+      position: slide.position,
       imagen: slide.imagen.url,
       descripcion: slide.descripcion,
       url: slide.url
