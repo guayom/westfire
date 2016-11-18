@@ -18,7 +18,7 @@ layout: default
         {% endcase %}
         {% for item in collection %}
           {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
-          {% include item.html image=item.thumbnail title=item.title link=item.url %}
+          {% include item.html image=item.thumbnail title=item.title link=item.url category=page.title item=item %}
           {% if modulo == "0" %}
             {% include row-end.html %}
           {% endif %}
