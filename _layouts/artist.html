@@ -29,4 +29,25 @@ layout: default
       <li><a href="{{page.bandcamp}}" target="_blank"><i class="fa fa-bandcamp"></i></a></li>
     {% endif %}
   </ul>
+  <br/>
+  <div class="page-header">
+      <h2 class="inner-section-title">Albums</h2>
+  </div>
+  <ul>
+    {% assign albums = site.albums | where: "artista", page.title %}
+    {% for album in albums %}
+      <li><a href="{{album.url}}">{{album.title}}</a></li>
+    {% endfor %}
+  </ul>
+  <br/>
+  <div class="page-header">
+      <h2 class="inner-section-title">Videos</h2>
+  </div>
+  <ul>
+    {% for video in site.videos %}
+      {% if video.artista.entity.payload.attributes.nombre == page.title %}
+        <li><a href="{{video.url}}">{{video.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>

@@ -1,5 +1,6 @@
 ---
 title: Fuego
+position: 2
 imagen: https://dato-images.imgix.net/489/1478088779-BannerFuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: 
 instagram: http://instagram.com/fuegovina

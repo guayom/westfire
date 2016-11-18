@@ -1,5 +1,6 @@
 ---
 title: Rodri Montenegro
+position: 5
 imagen: https://dato-images.imgix.net/489/1478780422-Rodri.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: westfirerecords@gmail.com
 instagram: https://instagram.com/rodrimonte92/

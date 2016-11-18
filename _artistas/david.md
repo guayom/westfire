@@ -1,5 +1,6 @@
 ---
 title: David
+position: 3
 imagen: https://dato-images.imgix.net/489/1478780215-David_2.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: westfirerecords@gmail.com
 instagram: https://instagram.com/davebustamante/

@@ -1,5 +1,6 @@
 ---
 title: Ale Fdz
+position: 1
 imagen: https://dato-images.imgix.net/489/1478088543-Ale_2.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: westfirerecords@gmail.com
 instagram: http://instagram.com/ale_fdz/
