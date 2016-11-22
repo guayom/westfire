@@ -59,11 +59,10 @@ layout: default
       <div class="span8">
         <ul>
           <div class="row">
-          {% for video in site.videos %}
-            {% if video.artista.entity.payload.attributes.nombre == page.title %}
-              {% if forloop.index == 4 %}</div><div class="row">{% endif %}
-              <li><a href="{{video.url}}"><img src="{{video.thumbnail}}"/>{{video.title}}</a></li>
-            {% endif %}
+          {% assign videos = site.videos | where: "artista", page.title %}
+          {% for video in videos %}
+            {% if forloop.index == 4 %}</div><div class="row">{% endif %}
+            <li><a href="{{video.url}}"><img src="{{video.thumbnail}}"/>{{video.title}}{{video.test}}</a></li>
           {% endfor %}
           </div>
         </ul>

@@ -1,7 +1,7 @@
 ---
 title: Spark my heart - Aaron Strumpel
 position: 17
-artista: 
+artista: nil
 album: 
 video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/pyZxQk9kenE?rel=0"
   frameborder="0" allowfullscreen></iframe>
@@ -11,4 +11,4 @@ permalink: "/videos/spark-my-heart-aaron-strumpel"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f8f35991698>
+#<Dato::Local::FieldType::Video:0x007fcb6f878b28>

@@ -1,37 +1,34 @@
 ---
 title: Todo va a estar bien (Versión acústica)
 position: 3
-artista: &93 !ruby/object:Dato::Local::Item
+artista: Fuego
+album: &80 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      id: '18356'
+      id: '20573'
       type: item
       attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-        updated_at: '2016-11-10T12:18:56.466Z'
+        updated_at: '2016-11-10T15:23:02.914Z'
         is_valid: true
-        instagram: http://instagram.com/fuegovina
-        facebook: http://www.facebook.com/fuegovina
-        nombre: Fuego
-        email: 
-        bandcamp: http://fuegovina.bandcamp.com/
-        youtube: https://www.youtube.com/channel/UC46HZp_3FyOHMr_bNIfnEsQ
-        twitter: 
-        descripcion: "<p><span>Fuego es un colectivo de personas que se reúnen los
-          lunes por las noches para adorar y crear música. La mayoría de las canciones
-          han sido inspiradas durante esos momentos. Las canciones son escritas por
-          David y Ale combinadas con la espontaneidad, creatividad y fuerza del resto
-          de Fuego. </span></p><p>Fuego es: Jeff, Adrián, Dany, Andy y David.</p>"
-        imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-          path: "/489/1478088779-BannerFuego.jpg"
-          size: 1156290
-          width: 1500
+        bandcamp: http://fuegovina.bandcamp.com/album/fuego
+        itunes: https://itunes.apple.com/us/album/fuego/id881950058
+        descripcion: "<p>Es un disco lleno de paz, alegria e intesidad, son canciones
+          que han llenado de fé los corazones de los que las han escuchado. El la
+          idea fue la de lograr capturar la escencia de un momento de adoración espontaneo
+          de nuestra comunidad.</p>"
+        cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+          path: "/489/1478791362-Portadas_westfire_Fuego.jpg"
+          size: 614123
+          width: 1024
           format: jpg
-          height: 558
-        position: 2
+          height: 1024
+        artista: '18356'
+        titulo: Fuego
+        position: 1
       relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
         item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
           data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-            id: '2854'
+            id: '2899'
             type: item_type
     data_source: &1 !ruby/object:Dato::Local::EntitiesRepo
       entities:
@@ -2395,34 +2392,7 @@ artista: &93 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20573': &80 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '20573'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-11-10T15:23:02.914Z'
-                is_valid: true
-                bandcamp: http://fuegovina.bandcamp.com/album/fuego
-                itunes: https://itunes.apple.com/us/album/fuego/id881950058
-                descripcion: "<p>Es un disco lleno de paz, alegria e intesidad, son
-                  canciones que han llenado de fé los corazones de los que las han
-                  escuchado. El la idea fue la de lograr capturar la escencia de un
-                  momento de adoración espontaneo de nuestra comunidad.</p>"
-                cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  path: "/489/1478791362-Portadas_westfire_Fuego.jpg"
-                  size: 614123
-                  width: 1024
-                  format: jpg
-                  height: 1024
-                artista: '18356'
-                titulo: Fuego
-                position: 1
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '2899'
-                    type: item_type
-            data_source: *1
+          '20573': *2
           '20563': &81 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20563'
@@ -2491,7 +2461,39 @@ artista: &93 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '18356': *2
+          '18356': &93 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '18356'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-10T12:18:56.466Z'
+                is_valid: true
+                instagram: http://instagram.com/fuegovina
+                facebook: http://www.facebook.com/fuegovina
+                nombre: Fuego
+                email: 
+                bandcamp: http://fuegovina.bandcamp.com/
+                youtube: https://www.youtube.com/channel/UC46HZp_3FyOHMr_bNIfnEsQ
+                twitter: 
+                descripcion: "<p><span>Fuego es un colectivo de personas que se reúnen
+                  los lunes por las noches para adorar y crear música. La mayoría
+                  de las canciones han sido inspiradas durante esos momentos. Las
+                  canciones son escritas por David y Ale combinadas con la espontaneidad,
+                  creatividad y fuerza del resto de Fuego. </span></p><p>Fuego es:
+                  Jeff, Adrián, Dany, Andy y David.</p>"
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1478088779-BannerFuego.jpg"
+                  size: 1156290
+                  width: 1500
+                  format: jpg
+                  height: 558
+                position: 2
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2854'
+                    type: item_type
+            data_source: *1
           '20561': &94 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20561'
@@ -3056,19 +3058,9 @@ artista: &93 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      - &144 !ruby/object:Dato::Local::Item
-        entity: *80
-        items_repo: *4
-        item_type: *70
-        fields:
-        - *71
-        - *72
-        - *73
-        - *74
-        - *75
-        - *76
+      - *80
       :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &145 !ruby/object:Dato::Local::Item
+      - &144 !ruby/object:Dato::Local::Item
         entity: *81
         items_repo: *4
         item_type: *82
@@ -3082,7 +3074,7 @@ artista: &93 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &146 !ruby/object:Dato::Local::Item
+      - &145 !ruby/object:Dato::Local::Item
         entity: *92
         items_repo: *4
         item_type: *82
@@ -3096,7 +3088,20 @@ artista: &93 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - *93
+      - &146 !ruby/object:Dato::Local::Item
+        entity: *93
+        items_repo: *4
+        item_type: *82
+        fields:
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+        - *90
+        - *91
       - &147 !ruby/object:Dato::Local::Item
         entity: *94
         items_repo: *4
@@ -3174,10 +3179,10 @@ artista: &93 !ruby/object:Dato::Local::Item
       '20576': *141
       '20575': *142
       '20574': *143
-      '20573': *144
-      '20563': *145
-      '20562': *146
-      '18356': *93
+      '20573': *80
+      '20563': *144
+      '20562': *145
+      '18356': *146
       '20561': *147
       '18354': *148
     item_type_methods:
@@ -3199,18 +3204,14 @@ artista: &93 !ruby/object:Dato::Local::Item
       *82:
       - :artistas
       - false
-  item_type: *82
+  item_type: *70
   fields:
-  - *83
-  - *84
-  - *85
-  - *86
-  - *87
-  - *88
-  - *89
-  - *90
-  - *91
-album: *144
+  - *71
+  - *72
+  - *73
+  - *74
+  - *75
+  - *76
 video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/aKhX7pPscJo?rel=0"
   frameborder="0" allowfullscreen></iframe>
 layout: video
@@ -3219,4 +3220,4 @@ permalink: "/videos/todo-va-a-estar-bien-version-acustica"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f8f3282b108>
+#<Dato::Local::FieldType::Video:0x007fcb6f62c6d0>

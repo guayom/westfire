@@ -67,11 +67,16 @@ end
 
 directory "_videos/" do
   dato.videos.each do |video|
+    if video.artista.nil?
+      artist_name = "nil"
+    else
+      artist_name = video.artista.nombre
+    end
     create_post "#{video.titulo.parameterize}.md" do
       frontmatter :yaml, {
         title: video.titulo,
         position: video.position,
-        artista: video.artista,
+        artista: artist_name,
         album: video.album,
         video: video.video.iframe_embed(1170, 658),
         layout: "video",

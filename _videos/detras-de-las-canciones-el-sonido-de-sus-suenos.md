@@ -1,35 +1,34 @@
 ---
 title: 'Detrás de las Canciones: El Sonido de Sus Sueños'
 position: 8
-artista: &95 !ruby/object:Dato::Local::Item
+artista: Ale Fdz
+album: &77 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      id: '18354'
+      id: '20576'
       type: item
       attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-        updated_at: '2016-11-10T12:15:55.175Z'
+        updated_at: '2016-11-10T15:26:09.530Z'
         is_valid: true
-        instagram: http://instagram.com/ale_fdz/
-        facebook: 
-        nombre: Ale Fdz
-        email: westfirerecords@gmail.com
-        bandcamp: 
-        youtube: 
-        twitter: https://twitter.com/AleFdzz_
-        descripcion: |-
-          <p>
-          Ale es un músico costarricense. Estudió en Florida International University del 2007 al 2009 y tuvo la oportunidad de tocar y aprender de los mejores músicos de jazz de la escena de Miami. Además estuvo de gira como baterista de Jorge Villamizar, ex-líder de la banda Bacilos. En el 2009 tomó su guitarra y empezó su camino como cantautor con su propio proyecto La Suite Estéreo. Hoy en día es un líder de adoración en la Viña Escazú y parte de los artistas de Westfire Records, cuenta con su estudio Sweet Home Studios en donde graba sus propias canciones y produce artistas locales.</p>
-        imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-          path: "/489/1478088543-Ale_2.jpg"
-          size: 326356
-          width: 1500
+        bandcamp: http://alefdzmusic.bandcamp.com/album/fracciones-de-luz-2
+        itunes: 
+        descripcion: "<p>Fracciones de Luz es un disco que habla acerca de lo que
+          aprendemos al caminar con Dios, como el paraíso de estar en Su presencia,
+          el gozo que hay en vencer pruebas a Su lado, la paz que trae Su amor y el
+          vacío que hay al estar lejos de El.</p>"
+        cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+          path: "/489/1478791539-PortadaItunesSpotify.jpg"
+          size: 1283759
+          width: 1400
           format: jpg
-          height: 558
-        position: 1
+          height: 1400
+        artista: '18354'
+        titulo: 'Fracciones de Luz '
+        position: 4
       relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
         item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
           data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-            id: '2854'
+            id: '2899'
             type: item_type
     data_source: &1 !ruby/object:Dato::Local::EntitiesRepo
       entities:
@@ -2310,34 +2309,7 @@ artista: &95 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20576': &77 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '20576'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-11-10T15:26:09.530Z'
-                is_valid: true
-                bandcamp: http://alefdzmusic.bandcamp.com/album/fracciones-de-luz-2
-                itunes: 
-                descripcion: "<p>Fracciones de Luz es un disco que habla acerca de
-                  lo que aprendemos al caminar con Dios, como el paraíso de estar
-                  en Su presencia, el gozo que hay en vencer pruebas a Su lado, la
-                  paz que trae Su amor y el vacío que hay al estar lejos de El.</p>"
-                cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  path: "/489/1478791539-PortadaItunesSpotify.jpg"
-                  size: 1283759
-                  width: 1400
-                  format: jpg
-                  height: 1400
-                artista: '18354'
-                titulo: 'Fracciones de Luz '
-                position: 4
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '2899'
-                    type: item_type
-            data_source: *1
+          '20576': *2
           '20575': &78 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20575'
@@ -2566,7 +2538,36 @@ artista: &95 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '18354': *2
+          '18354': &95 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '18354'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-10T12:15:55.175Z'
+                is_valid: true
+                instagram: http://instagram.com/ale_fdz/
+                facebook: 
+                nombre: Ale Fdz
+                email: westfirerecords@gmail.com
+                bandcamp: 
+                youtube: 
+                twitter: https://twitter.com/AleFdzz_
+                descripcion: |-
+                  <p>
+                  Ale es un músico costarricense. Estudió en Florida International University del 2007 al 2009 y tuvo la oportunidad de tocar y aprender de los mejores músicos de jazz de la escena de Miami. Además estuvo de gira como baterista de Jorge Villamizar, ex-líder de la banda Bacilos. En el 2009 tomó su guitarra y empezó su camino como cantautor con su propio proyecto La Suite Estéreo. Hoy en día es un líder de adoración en la Viña Escazú y parte de los artistas de Westfire Records, cuenta con su estudio Sweet Home Studios en donde graba sus propias canciones y produce artistas locales.</p>
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1478088543-Ale_2.jpg"
+                  size: 326356
+                  width: 1500
+                  format: jpg
+                  height: 558
+                position: 1
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2854'
+                    type: item_type
+            data_source: *1
   items_repo: &4 !ruby/object:Dato::Local::ItemsRepo
     entities_repo: *1
     collections_by_type:
@@ -3024,18 +3025,8 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
+      - *77
       - &141 !ruby/object:Dato::Local::Item
-        entity: *77
-        items_repo: *4
-        item_type: *70
-        fields:
-        - *71
-        - *72
-        - *73
-        - *74
-        - *75
-        - *76
-      - &142 !ruby/object:Dato::Local::Item
         entity: *78
         items_repo: *4
         item_type: *70
@@ -3046,7 +3037,7 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      - &143 !ruby/object:Dato::Local::Item
+      - &142 !ruby/object:Dato::Local::Item
         entity: *79
         items_repo: *4
         item_type: *70
@@ -3057,7 +3048,7 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      - &144 !ruby/object:Dato::Local::Item
+      - &143 !ruby/object:Dato::Local::Item
         entity: *80
         items_repo: *4
         item_type: *70
@@ -3069,7 +3060,7 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *75
         - *76
       :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &145 !ruby/object:Dato::Local::Item
+      - &144 !ruby/object:Dato::Local::Item
         entity: *81
         items_repo: *4
         item_type: *82
@@ -3083,7 +3074,7 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &146 !ruby/object:Dato::Local::Item
+      - &145 !ruby/object:Dato::Local::Item
         entity: *92
         items_repo: *4
         item_type: *82
@@ -3097,7 +3088,7 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &147 !ruby/object:Dato::Local::Item
+      - &146 !ruby/object:Dato::Local::Item
         entity: *93
         items_repo: *4
         item_type: *82
@@ -3111,7 +3102,7 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &148 !ruby/object:Dato::Local::Item
+      - &147 !ruby/object:Dato::Local::Item
         entity: *94
         items_repo: *4
         item_type: *82
@@ -3125,7 +3116,20 @@ artista: &95 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - *95
+      - &148 !ruby/object:Dato::Local::Item
+        entity: *95
+        items_repo: *4
+        item_type: *82
+        fields:
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+        - *90
+        - *91
     items_by_id:
       '20602': *96
       '21227': *97
@@ -3172,15 +3176,15 @@ artista: &95 !ruby/object:Dato::Local::Item
       '20579': *138
       '20578': *139
       '20577': *140
-      '20576': *141
-      '20575': *142
-      '20574': *143
-      '20573': *144
-      '20563': *145
-      '20562': *146
-      '18356': *147
-      '20561': *148
-      '18354': *95
+      '20576': *77
+      '20575': *141
+      '20574': *142
+      '20573': *143
+      '20563': *144
+      '20562': *145
+      '18356': *146
+      '20561': *147
+      '18354': *148
     item_type_methods:
       *5:
       - :contacto
@@ -3200,18 +3204,14 @@ artista: &95 !ruby/object:Dato::Local::Item
       *82:
       - :artistas
       - false
-  item_type: *82
+  item_type: *70
   fields:
-  - *83
-  - *84
-  - *85
-  - *86
-  - *87
-  - *88
-  - *89
-  - *90
-  - *91
-album: *141
+  - *71
+  - *72
+  - *73
+  - *74
+  - *75
+  - *76
 video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/oKa9oPCz914?rel=0"
   frameborder="0" allowfullscreen></iframe>
 layout: video
@@ -3220,4 +3220,4 @@ permalink: "/videos/detras-de-las-canciones-el-sonido-de-sus-suenos"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f8f34c7a720>
+#<Dato::Local::FieldType::Video:0x007fcb6f69fec8>

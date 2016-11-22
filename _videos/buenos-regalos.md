@@ -1,42 +1,36 @@
 ---
 title: Buenos regalos
 position: 1
-artista: &92 !ruby/object:Dato::Local::Item
+artista: Geancarlo Calderón
+album: &69 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-      id: '20562'
+      id: '20577'
       type: item
       attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-        updated_at: '2016-11-10T12:19:57.852Z'
+        updated_at: '2016-11-10T15:26:52.136Z'
         is_valid: true
-        instagram: https://instagram.com/geancarlocalderon/
-        facebook: https://www.facebook.com/geancarlo.calderon?fref=ts
-        nombre: Geancarlo Calderón
-        email: westfirerecords@gmail.com
-        bandcamp: 
-        youtube: 
-        twitter: 
-        descripcion: <p>Geancarlo ha liderado la adoración desde el 2005, su deseo
-          y pasión es transmitir el corazón de Dios Padre y nuestra identidad como
-          hijos muy amados.</p><p><span>Tras su paso por la iglesia New Life New Glory,
-          en San José Costa Rica, decide crecer en el campo de la adoración realizando
-          la I y II fase del programa llamado "The 18 Inch Journey" que se lleva a
-          cabo en The Place for the Heart, ubicado en los Estados Unidos, bajo el
-          liderazgo de Jonathan y Melissa Helser. Actualmente Geancarlo es parte del
-          colectivo de músicos "Fuego", además de ser líder de adoración en La Viña
-          Escazú y artista de Westfire Records. También realiza trabajos audiovisuales
-          ejerciendo su carrera de Cine y Televisión.</span></p>
-        imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-          path: "/489/1478780362-Geanca.jpg"
-          size: 517612
-          width: 1500
+        bandcamp: https://geancarlocalderon.bandcamp.com/releases
+        itunes: 
+        descripcion: "<p>En cada una de las canciones de este album podremos sentir
+          el corazón de un Padre amoroso que ama a sus hijos e hijas profundamente,
+          ese es nuestro padre Celestial. Al saber que somos amados por El podemos
+          estar seguros de quienes somos, no tenemos que compararnos con nadie ni
+          vivir esclavos a la aprobación de otros, tenemos identidad verdadera. Geancarlo
+          logra capturar ese corazón al escribir sus canciones.</p>"
+        cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+          path: "/489/1478791597-Identidad_1463x1463.jpg"
+          size: 2227514
+          width: 1463
           format: jpg
-          height: 558
-        position: 4
+          height: 1465
+        artista: '20562'
+        titulo: Identidad
+        position: 5
       relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
         item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
           data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-            id: '2854'
+            id: '2899'
             type: item_type
     data_source: &1 !ruby/object:Dato::Local::EntitiesRepo
       entities:
@@ -216,7 +210,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                 singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2899': &70 !ruby/object:Dato::Local::JsonApiEntity
+          '2899': &71 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2899'
               type: item_type
@@ -646,7 +640,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '11560': &71 !ruby/object:Dato::Local::JsonApiEntity
+          '11560': &72 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11560'
               type: field
@@ -666,7 +660,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11561': &72 !ruby/object:Dato::Local::JsonApiEntity
+          '11561': &73 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11561'
               type: field
@@ -689,7 +683,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11562': &73 !ruby/object:Dato::Local::JsonApiEntity
+          '11562': &74 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11562'
               type: field
@@ -709,7 +703,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11563': &74 !ruby/object:Dato::Local::JsonApiEntity
+          '11563': &75 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11563'
               type: field
@@ -729,7 +723,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11564': &75 !ruby/object:Dato::Local::JsonApiEntity
+          '11564': &76 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11564'
               type: field
@@ -751,7 +745,7 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11565': &76 !ruby/object:Dato::Local::JsonApiEntity
+          '11565': &77 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11565'
               type: field
@@ -2286,38 +2280,8 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20577': &69 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '20577'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-11-10T15:26:52.136Z'
-                is_valid: true
-                bandcamp: https://geancarlocalderon.bandcamp.com/releases
-                itunes: 
-                descripcion: "<p>En cada una de las canciones de este album podremos
-                  sentir el corazón de un Padre amoroso que ama a sus hijos e hijas
-                  profundamente, ese es nuestro padre Celestial. Al saber que somos
-                  amados por El podemos estar seguros de quienes somos, no tenemos
-                  que compararnos con nadie ni vivir esclavos a la aprobación de otros,
-                  tenemos identidad verdadera. Geancarlo logra capturar ese corazón
-                  al escribir sus canciones.</p>"
-                cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  path: "/489/1478791597-Identidad_1463x1463.jpg"
-                  size: 2227514
-                  width: 1463
-                  format: jpg
-                  height: 1465
-                artista: '20562'
-                titulo: Identidad
-                position: 5
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '2899'
-                    type: item_type
-            data_source: *1
-          '20576': &77 !ruby/object:Dato::Local::JsonApiEntity
+          '20577': *2
+          '20576': &70 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20576'
               type: item
@@ -2458,7 +2422,44 @@ artista: &92 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '20562': *2
+          '20562': &92 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '20562'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-11-10T12:19:57.852Z'
+                is_valid: true
+                instagram: https://instagram.com/geancarlocalderon/
+                facebook: https://www.facebook.com/geancarlo.calderon?fref=ts
+                nombre: Geancarlo Calderón
+                email: westfirerecords@gmail.com
+                bandcamp: 
+                youtube: 
+                twitter: 
+                descripcion: <p>Geancarlo ha liderado la adoración desde el 2005,
+                  su deseo y pasión es transmitir el corazón de Dios Padre y nuestra
+                  identidad como hijos muy amados.</p><p><span>Tras su paso por la
+                  iglesia New Life New Glory, en San José Costa Rica, decide crecer
+                  en el campo de la adoración realizando la I y II fase del programa
+                  llamado "The 18 Inch Journey" que se lleva a cabo en The Place for
+                  the Heart, ubicado en los Estados Unidos, bajo el liderazgo de Jonathan
+                  y Melissa Helser. Actualmente Geancarlo es parte del colectivo de
+                  músicos "Fuego", además de ser líder de adoración en La Viña Escazú
+                  y artista de Westfire Records. También realiza trabajos audiovisuales
+                  ejerciendo su carrera de Cine y Televisión.</span></p>
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1478780362-Geanca.jpg"
+                  size: 517612
+                  width: 1500
+                  format: jpg
+                  height: 558
+                position: 4
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2854'
+                    type: item_type
+            data_source: *1
           '18356': &93 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '18356'
@@ -3012,63 +3013,53 @@ artista: &92 !ruby/object:Dato::Local::Item
         - *46
         - *47
       :albums: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - *69
       - &140 !ruby/object:Dato::Local::Item
-        entity: *69
+        entity: *70
         items_repo: *4
-        item_type: *70
+        item_type: *71
         fields:
-        - *71
         - *72
         - *73
         - *74
         - *75
         - *76
+        - *77
       - &141 !ruby/object:Dato::Local::Item
-        entity: *77
-        items_repo: *4
-        item_type: *70
-        fields:
-        - *71
-        - *72
-        - *73
-        - *74
-        - *75
-        - *76
-      - &142 !ruby/object:Dato::Local::Item
         entity: *78
         items_repo: *4
-        item_type: *70
+        item_type: *71
         fields:
-        - *71
         - *72
         - *73
         - *74
         - *75
         - *76
-      - &143 !ruby/object:Dato::Local::Item
+        - *77
+      - &142 !ruby/object:Dato::Local::Item
         entity: *79
         items_repo: *4
-        item_type: *70
+        item_type: *71
         fields:
-        - *71
         - *72
         - *73
         - *74
         - *75
         - *76
-      - &144 !ruby/object:Dato::Local::Item
+        - *77
+      - &143 !ruby/object:Dato::Local::Item
         entity: *80
         items_repo: *4
-        item_type: *70
+        item_type: *71
         fields:
-        - *71
         - *72
         - *73
         - *74
         - *75
         - *76
+        - *77
       :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &145 !ruby/object:Dato::Local::Item
+      - &144 !ruby/object:Dato::Local::Item
         entity: *81
         items_repo: *4
         item_type: *82
@@ -3082,7 +3073,20 @@ artista: &92 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - *92
+      - &145 !ruby/object:Dato::Local::Item
+        entity: *92
+        items_repo: *4
+        item_type: *82
+        fields:
+        - *83
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+        - *90
+        - *91
       - &146 !ruby/object:Dato::Local::Item
         entity: *93
         items_repo: *4
@@ -3170,13 +3174,13 @@ artista: &92 !ruby/object:Dato::Local::Item
       '20580': *137
       '20579': *138
       '20578': *139
-      '20577': *140
-      '20576': *141
-      '20575': *142
-      '20574': *143
-      '20573': *144
-      '20563': *145
-      '20562': *92
+      '20577': *69
+      '20576': *140
+      '20575': *141
+      '20574': *142
+      '20573': *143
+      '20563': *144
+      '20562': *145
       '18356': *146
       '20561': *147
       '18354': *148
@@ -3193,24 +3197,20 @@ artista: &92 !ruby/object:Dato::Local::Item
       *41:
       - :canciones
       - false
-      *70:
+      *71:
       - :albums
       - false
       *82:
       - :artistas
       - false
-  item_type: *82
+  item_type: *71
   fields:
-  - *83
-  - *84
-  - *85
-  - *86
-  - *87
-  - *88
-  - *89
-  - *90
-  - *91
-album: *140
+  - *72
+  - *73
+  - *74
+  - *75
+  - *76
+  - *77
 video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/BMA9r74Gd6w?rel=0"
   frameborder="0" allowfullscreen></iframe>
 layout: video
@@ -3219,4 +3219,4 @@ permalink: "/videos/buenos-regalos"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f8f358c0a48>
+#<Dato::Local::FieldType::Video:0x007fcb6f60fa58>

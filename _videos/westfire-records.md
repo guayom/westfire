@@ -1,7 +1,7 @@
 ---
 title: Westfire Records
 position: 9
-artista: 
+artista: nil
 album: 
 video: <iframe width="1170" height="658" src="http://www.youtube.com/embed/MNrg8Y1lP4c?rel=0"
   frameborder="0" allowfullscreen></iframe>
@@ -11,4 +11,4 @@ permalink: "/videos/westfire-records"
 menuitem: Vídeos
 ---
 
-#<Dato::Local::FieldType::Video:0x007f8f35902a60>
+#<Dato::Local::FieldType::Video:0x007fcb6f6b7b40>
