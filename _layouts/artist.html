@@ -30,6 +30,8 @@ layout: default
     {% endif %}
   </ul>
 </div>
+{% assign albums = site.albums | where: "artista", page.title %}
+{% unless albums.size < 1 %}
 <div class="aditional-content-section gris">
   <div class="container">
     <div class="row">
@@ -39,7 +41,6 @@ layout: default
       <div class="span8">
         <ul>
           <div class="row">
-            {% assign albums = site.albums | where: "artista", page.title %}
             {% for album in albums %}
               {% if forloop.index == 4 %}</div><div class="row">{% endif %}
               <li><a href="{{album.url}}"><img src="{{album.thumbnail}}"/>{{album.title}}</a></li>
@@ -50,6 +51,9 @@ layout: default
     </div>
   </div>
 </div>
+{% endunless %}
+{% assign videos = site.videos | where: "artista", page.title %}
+{% unless videos.size < 1 %}
 <div class="aditional-content-section">
   <div class="container">
     <div class="row">
@@ -59,7 +63,6 @@ layout: default
       <div class="span8">
         <ul>
           <div class="row">
-          {% assign videos = site.videos | where: "artista", page.title %}
           {% for video in videos %}
             {% if forloop.index == 4 %}</div><div class="row">{% endif %}
             <li><a href="{{video.url}}"><img src="{{video.thumbnail}}"/>{{video.title}}{{video.test}}</a></li>
@@ -70,3 +73,4 @@ layout: default
     </div>
   </div>
 </div>
+{% endunless %}
