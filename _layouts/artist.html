@@ -29,25 +29,42 @@ layout: default
       <li><a href="{{page.bandcamp}}" target="_blank"><i class="fa fa-bandcamp"></i></a></li>
     {% endif %}
   </ul>
-  <br/>
-  <div class="page-header">
-      <h2 class="inner-section-title">Albums</h2>
+</div>
+<div class="aditional-content-section gris">
+  <div class="container">
+    <div class="row">
+      <div class="section-header span4">
+          <h2 class="inner-section-title">Albums</h2>
+      </div>
+      <div class="span8">
+        <ul>
+          {% assign albums = site.albums | where: "artista", page.title %}
+          {% for album in albums %}
+            <li><a href="{{album.url}}"><img src="{{album.thumbnail}}"/>{{album.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
-  <ul>
-    {% assign albums = site.albums | where: "artista", page.title %}
-    {% for album in albums %}
-      <li><a href="{{album.url}}">{{album.title}}</a></li>
-    {% endfor %}
-  </ul>
-  <br/>
-  <div class="page-header">
-      <h2 class="inner-section-title">Videos</h2>
+</div>
+<div class="aditional-content-section">
+  <div class="container">
+    <div class="row">
+      <div class="section-header span4">
+          <h2 class="inner-section-title">Videos</h2>
+      </div>
+      <div class="span8">
+        <ul>
+          <div class="row">
+          {% for video in site.videos %}
+            {% if video.artista.entity.payload.attributes.nombre == page.title %}
+              {% if forloop.index == 4 %}</div><div class="row">{% endif %}
+              <li><a href="{{video.url}}"><img src="{{video.thumbnail}}"/>{{video.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+          </div>
+        </ul>
+      </div>
+    </div>
   </div>
-  <ul>
-    {% for video in site.videos %}
-      {% if video.artista.entity.payload.attributes.nombre == page.title %}
-        <li><a href="{{video.url}}">{{video.title}}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
 </div>
