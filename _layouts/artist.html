@@ -38,10 +38,13 @@ layout: default
       </div>
       <div class="span8">
         <ul>
-          {% assign albums = site.albums | where: "artista", page.title %}
-          {% for album in albums %}
-            <li><a href="{{album.url}}"><img src="{{album.thumbnail}}"/>{{album.title}}</a></li>
-          {% endfor %}
+          <div class="row">
+            {% assign albums = site.albums | where: "artista", page.title %}
+            {% for album in albums %}
+              {% if forloop.index == 4 %}</div><div class="row">{% endif %}
+              <li><a href="{{album.url}}"><img src="{{album.thumbnail}}"/>{{album.title}}</a></li>
+            {% endfor %}
+          </div>
         </ul>
       </div>
     </div>
