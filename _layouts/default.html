@@ -14,6 +14,9 @@
 
 
 <body data-feedly-mini="yes" cz-shortcut-listen="true">
+	{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
   <div class="wrapper-total">
     {% include navbar.html %}
 		{{ content }}
