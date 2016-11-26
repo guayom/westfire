@@ -31,3 +31,6 @@ collections:
     output: true
   videos:
     output: true
+
+gems:
+  - jekyll-sitemap
