@@ -93,6 +93,7 @@
       box-sizing: border-box;
       width: 33%;
       padding: 0 10px;
+      margin-bottom: 20px;
       float: left;
       img{
         display: block;
@@ -105,5 +106,20 @@
 .album{
   .page-header{
     text-align: left;
+  }
+}
+
+.more-content{
+  .album{
+    a{
+      text-align: center;
+    }
+    img{
+      width: 100px;
+      margin-bottom: 10px;
+    }
+    span{
+      margin: 0 auto;
+    }
   }
 }

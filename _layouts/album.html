@@ -10,8 +10,10 @@ layout: default
 
       <div class="span8">
           <div class="page-header">
-              {% assign artista = site.artistas | where: 'title', page.artista %}
-              <h1>{{page.title}} <small> - {{page.artista}} <a href="/artistas/{{artista.url}}">(ver perfil el perfil de {{page.artista}})</a></h1>
+              {% assign album_author = site.artistas | where: 'title', page.artista %}
+              {% for artista in album_author %}
+              <h1>{{page.title}} <small> - <a href="{{artista.url}}">{{page.artista}}</a></h1>
+              {% endfor %}
           </div>
 
 
@@ -37,7 +39,7 @@ layout: default
           </div>
 
           {% assign albums = site.albums | where: "artista", page.artista %}
-          {% unless albums.size < 1 %}
+          {% unless albums.size < 2 %}
           <div class="more-content">
             <hr>
             <h2>Más albums de este artista</h2>
@@ -47,7 +49,12 @@ layout: default
                   {% for album in albums %}
                     {% unless album.title == page.title %}
                       {% if forloop.index == 4 %}</div><div class="row">{% endif %}
-                      <li><a href="{{album.url}}"><img src="{{album.thumbnail}}"/>{{album.title}}</a></li>
+                      <li class="album">
+                        <a href="{{album.url}}">
+                          <img src="{{album.thumbnail}}"/>
+                          <br/><span>{{album.title}}</span>
+                        </a>
+                      </li>
                     {% endunless %}
                   {% endfor %}
                 </div>
