@@ -9,7 +9,6 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/_PpihkErIxE/hqdefault.jpg
 permalink: "/videos/all-i-need"
 menuitem: Vídeos
-otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007f96d9611508>
+#<Dato::Local::FieldType::Video:0x007fb644f5eae0>

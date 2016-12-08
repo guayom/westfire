@@ -9,7 +9,6 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/2EKGeziGWhg/hqdefault.jpg
 permalink: "/videos/una-vez-y-para-siempre"
 menuitem: Vídeos
-otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007f96db04ce40>
+#<Dato::Local::FieldType::Video:0x007fb644f372d8>

@@ -9,7 +9,6 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/ttBEZzyy3Lk/hqdefault.jpg
 permalink: "/videos/hijo-muy-amado"
 menuitem: Vídeos
-otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007f96dd151fc8>
+#<Dato::Local::FieldType::Video:0x007fb6476c2e88>

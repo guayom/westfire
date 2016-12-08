@@ -2,7 +2,7 @@
 title: 'Detrás de las Canciones: El Sonido de Sus Sueños'
 position: 8
 artista: Ale Fdz
-album: &77 !ruby/object:Dato::Local::Item
+album: &78 !ruby/object:Dato::Local::Item
   entity: &2 !ruby/object:Dato::Local::JsonApiEntity
     payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
       id: '20576'
@@ -241,7 +241,7 @@ album: &77 !ruby/object:Dato::Local::Item
                 singleton_item: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: 
             data_source: *1
-          '2854': &82 !ruby/object:Dato::Local::JsonApiEntity
+          '2854': &83 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '2854'
               type: item_type
@@ -765,7 +765,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '11366': &83 !ruby/object:Dato::Local::JsonApiEntity
+          '11366': &84 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11366'
               type: field
@@ -787,7 +787,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11367': &84 !ruby/object:Dato::Local::JsonApiEntity
+          '11367': &85 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11367'
               type: field
@@ -807,7 +807,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11368': &85 !ruby/object:Dato::Local::JsonApiEntity
+          '11368': &86 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11368'
               type: field
@@ -827,7 +827,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11557': &86 !ruby/object:Dato::Local::JsonApiEntity
+          '11557': &87 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11557'
               type: field
@@ -849,7 +849,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11369': &87 !ruby/object:Dato::Local::JsonApiEntity
+          '11369': &88 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11369'
               type: field
@@ -871,7 +871,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11370': &88 !ruby/object:Dato::Local::JsonApiEntity
+          '11370': &89 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11370'
               type: field
@@ -893,7 +893,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11554': &89 !ruby/object:Dato::Local::JsonApiEntity
+          '11554': &90 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11554'
               type: field
@@ -915,7 +915,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11555': &90 !ruby/object:Dato::Local::JsonApiEntity
+          '11555': &91 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11555'
               type: field
@@ -937,7 +937,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '11556': &91 !ruby/object:Dato::Local::JsonApiEntity
+          '11556': &92 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '11556'
               type: field
@@ -960,6 +960,61 @@ album: &77 !ruby/object:Dato::Local::Item
                     type: item_type
             data_source: *1
         item:
+          '23947': &69 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '23947'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-12-08T20:03:17.055Z'
+                is_valid: true
+                bandcamp: 
+                itunes: https://itunes.apple.com/us/album/eres-el-mismo/id1175557289
+                descripcion: |-
+                  <p>¨Eres El Mismo¨ Es un album que recopila canciones escritas por la mayoría de los líderes de adoración de La Viña Escazú, El corazón de este disco es que podamos recordar que el amor de Dios siempre es igual, es un amor eterno y perfecto que no depende de nuestras circunstancias. Siempre ha estado y estará disponible para todo el que quiera. Cada una de estas canciones se han convertido en himnos para la comunidad y nuestro deseo es que también sean instrumento para adorar a Dios para todos lo que las escuchen.<br>
+                  </p>
+                cover: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1481048738-EreselMismo(itunes)-01(1).png"
+                  size: 1595422
+                  width: 3000
+                  format: png
+                  height: 3000
+                artista: '23934'
+                titulo: Eres El Mismo
+                position: 6
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2899'
+                    type: item_type
+            data_source: *1
+          '23934': &82 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '23934'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-12-06T18:24:31.589Z'
+                is_valid: true
+                instagram: https://www.instagram.com/westfirerecords/
+                facebook: https://www.facebook.com/westfirerecords/
+                nombre: La Viña Escazú
+                email: westfirerecords@gmail.com
+                bandcamp: 
+                youtube: https://www.youtube.com/watch?v=dJAk77g0GkA
+                twitter: 
+                descripcion: ''
+                imagen: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  path: "/489/1481048484-EEMFBCover.jpg"
+                  size: 137417
+                  width: 900
+                  format: jpg
+                  height: 333
+                position: 6
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '2854'
+                    type: item_type
+            data_source: *1
           '20602': &9 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20602'
@@ -2278,7 +2333,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2900'
                     type: item_type
             data_source: *1
-          '20577': &69 !ruby/object:Dato::Local::JsonApiEntity
+          '20577': &77 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20577'
               type: item
@@ -2310,7 +2365,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     type: item_type
             data_source: *1
           '20576': *2
-          '20575': &78 !ruby/object:Dato::Local::JsonApiEntity
+          '20575': &79 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20575'
               type: item
@@ -2338,7 +2393,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20574': &79 !ruby/object:Dato::Local::JsonApiEntity
+          '20574': &80 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20574'
               type: item
@@ -2365,7 +2420,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20573': &80 !ruby/object:Dato::Local::JsonApiEntity
+          '20573': &81 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20573'
               type: item
@@ -2393,7 +2448,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2899'
                     type: item_type
             data_source: *1
-          '20563': &81 !ruby/object:Dato::Local::JsonApiEntity
+          '20563': &93 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20563'
               type: item
@@ -2423,7 +2478,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '20562': &92 !ruby/object:Dato::Local::JsonApiEntity
+          '20562': &94 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20562'
               type: item
@@ -2461,7 +2516,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '18356': &93 !ruby/object:Dato::Local::JsonApiEntity
+          '18356': &95 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '18356'
               type: item
@@ -2494,7 +2549,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '20561': &94 !ruby/object:Dato::Local::JsonApiEntity
+          '20561': &96 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '20561'
               type: item
@@ -2538,7 +2593,7 @@ album: &77 !ruby/object:Dato::Local::Item
                     id: '2854'
                     type: item_type
             data_source: *1
-          '18354': &95 !ruby/object:Dato::Local::JsonApiEntity
+          '18354': &97 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '18354'
               type: item
@@ -2571,7 +2626,7 @@ album: &77 !ruby/object:Dato::Local::Item
   items_repo: &4 !ruby/object:Dato::Local::ItemsRepo
     entities_repo: *1
     collections_by_type:
-      :contacto: &99 !ruby/object:Dato::Local::Item
+      :contacto: &103 !ruby/object:Dato::Local::Item
         entity: *3
         items_repo: *4
         item_type: *5
@@ -2580,7 +2635,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *7
         - *8
       :videos: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &96 !ruby/object:Dato::Local::Item
+      - &100 !ruby/object:Dato::Local::Item
         entity: *9
         items_repo: *4
         item_type: *10
@@ -2589,7 +2644,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &97 !ruby/object:Dato::Local::Item
+      - &101 !ruby/object:Dato::Local::Item
         entity: *15
         items_repo: *4
         item_type: *10
@@ -2598,7 +2653,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &103 !ruby/object:Dato::Local::Item
+      - &107 !ruby/object:Dato::Local::Item
         entity: *16
         items_repo: *4
         item_type: *10
@@ -2607,7 +2662,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &104 !ruby/object:Dato::Local::Item
+      - &108 !ruby/object:Dato::Local::Item
         entity: *17
         items_repo: *4
         item_type: *10
@@ -2616,7 +2671,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &105 !ruby/object:Dato::Local::Item
+      - &109 !ruby/object:Dato::Local::Item
         entity: *18
         items_repo: *4
         item_type: *10
@@ -2625,7 +2680,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &106 !ruby/object:Dato::Local::Item
+      - &110 !ruby/object:Dato::Local::Item
         entity: *19
         items_repo: *4
         item_type: *10
@@ -2634,7 +2689,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &107 !ruby/object:Dato::Local::Item
+      - &111 !ruby/object:Dato::Local::Item
         entity: *20
         items_repo: *4
         item_type: *10
@@ -2643,7 +2698,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &108 !ruby/object:Dato::Local::Item
+      - &112 !ruby/object:Dato::Local::Item
         entity: *21
         items_repo: *4
         item_type: *10
@@ -2652,7 +2707,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &109 !ruby/object:Dato::Local::Item
+      - &113 !ruby/object:Dato::Local::Item
         entity: *22
         items_repo: *4
         item_type: *10
@@ -2661,7 +2716,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &110 !ruby/object:Dato::Local::Item
+      - &114 !ruby/object:Dato::Local::Item
         entity: *23
         items_repo: *4
         item_type: *10
@@ -2670,7 +2725,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &111 !ruby/object:Dato::Local::Item
+      - &115 !ruby/object:Dato::Local::Item
         entity: *24
         items_repo: *4
         item_type: *10
@@ -2679,7 +2734,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &112 !ruby/object:Dato::Local::Item
+      - &116 !ruby/object:Dato::Local::Item
         entity: *25
         items_repo: *4
         item_type: *10
@@ -2688,7 +2743,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &113 !ruby/object:Dato::Local::Item
+      - &117 !ruby/object:Dato::Local::Item
         entity: *26
         items_repo: *4
         item_type: *10
@@ -2697,7 +2752,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &114 !ruby/object:Dato::Local::Item
+      - &118 !ruby/object:Dato::Local::Item
         entity: *27
         items_repo: *4
         item_type: *10
@@ -2706,7 +2761,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &115 !ruby/object:Dato::Local::Item
+      - &119 !ruby/object:Dato::Local::Item
         entity: *28
         items_repo: *4
         item_type: *10
@@ -2715,7 +2770,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &116 !ruby/object:Dato::Local::Item
+      - &120 !ruby/object:Dato::Local::Item
         entity: *29
         items_repo: *4
         item_type: *10
@@ -2724,7 +2779,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &117 !ruby/object:Dato::Local::Item
+      - &121 !ruby/object:Dato::Local::Item
         entity: *30
         items_repo: *4
         item_type: *10
@@ -2734,7 +2789,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *13
         - *14
       :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &98 !ruby/object:Dato::Local::Item
+      - &102 !ruby/object:Dato::Local::Item
         entity: *31
         items_repo: *4
         item_type: *32
@@ -2743,7 +2798,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *34
         - *35
         - *36
-      - &100 !ruby/object:Dato::Local::Item
+      - &104 !ruby/object:Dato::Local::Item
         entity: *37
         items_repo: *4
         item_type: *32
@@ -2752,7 +2807,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *34
         - *35
         - *36
-      - &101 !ruby/object:Dato::Local::Item
+      - &105 !ruby/object:Dato::Local::Item
         entity: *38
         items_repo: *4
         item_type: *32
@@ -2761,7 +2816,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *34
         - *35
         - *36
-      - &102 !ruby/object:Dato::Local::Item
+      - &106 !ruby/object:Dato::Local::Item
         entity: *39
         items_repo: *4
         item_type: *32
@@ -2771,7 +2826,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *35
         - *36
       :canciones: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &118 !ruby/object:Dato::Local::Item
+      - &122 !ruby/object:Dato::Local::Item
         entity: *40
         items_repo: *4
         item_type: *41
@@ -2782,7 +2837,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &119 !ruby/object:Dato::Local::Item
+      - &123 !ruby/object:Dato::Local::Item
         entity: *48
         items_repo: *4
         item_type: *41
@@ -2793,7 +2848,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &120 !ruby/object:Dato::Local::Item
+      - &124 !ruby/object:Dato::Local::Item
         entity: *49
         items_repo: *4
         item_type: *41
@@ -2804,7 +2859,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &121 !ruby/object:Dato::Local::Item
+      - &125 !ruby/object:Dato::Local::Item
         entity: *50
         items_repo: *4
         item_type: *41
@@ -2815,7 +2870,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &122 !ruby/object:Dato::Local::Item
+      - &126 !ruby/object:Dato::Local::Item
         entity: *51
         items_repo: *4
         item_type: *41
@@ -2826,7 +2881,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &123 !ruby/object:Dato::Local::Item
+      - &127 !ruby/object:Dato::Local::Item
         entity: *52
         items_repo: *4
         item_type: *41
@@ -2837,7 +2892,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &124 !ruby/object:Dato::Local::Item
+      - &128 !ruby/object:Dato::Local::Item
         entity: *53
         items_repo: *4
         item_type: *41
@@ -2848,7 +2903,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &125 !ruby/object:Dato::Local::Item
+      - &129 !ruby/object:Dato::Local::Item
         entity: *54
         items_repo: *4
         item_type: *41
@@ -2859,7 +2914,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &126 !ruby/object:Dato::Local::Item
+      - &130 !ruby/object:Dato::Local::Item
         entity: *55
         items_repo: *4
         item_type: *41
@@ -2870,7 +2925,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &127 !ruby/object:Dato::Local::Item
+      - &131 !ruby/object:Dato::Local::Item
         entity: *56
         items_repo: *4
         item_type: *41
@@ -2881,7 +2936,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &128 !ruby/object:Dato::Local::Item
+      - &132 !ruby/object:Dato::Local::Item
         entity: *57
         items_repo: *4
         item_type: *41
@@ -2892,7 +2947,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &129 !ruby/object:Dato::Local::Item
+      - &133 !ruby/object:Dato::Local::Item
         entity: *58
         items_repo: *4
         item_type: *41
@@ -2903,7 +2958,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &130 !ruby/object:Dato::Local::Item
+      - &134 !ruby/object:Dato::Local::Item
         entity: *59
         items_repo: *4
         item_type: *41
@@ -2914,7 +2969,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &131 !ruby/object:Dato::Local::Item
+      - &135 !ruby/object:Dato::Local::Item
         entity: *60
         items_repo: *4
         item_type: *41
@@ -2925,7 +2980,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &132 !ruby/object:Dato::Local::Item
+      - &136 !ruby/object:Dato::Local::Item
         entity: *61
         items_repo: *4
         item_type: *41
@@ -2936,7 +2991,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &133 !ruby/object:Dato::Local::Item
+      - &137 !ruby/object:Dato::Local::Item
         entity: *62
         items_repo: *4
         item_type: *41
@@ -2947,7 +3002,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &134 !ruby/object:Dato::Local::Item
+      - &138 !ruby/object:Dato::Local::Item
         entity: *63
         items_repo: *4
         item_type: *41
@@ -2958,7 +3013,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &135 !ruby/object:Dato::Local::Item
+      - &139 !ruby/object:Dato::Local::Item
         entity: *64
         items_repo: *4
         item_type: *41
@@ -2969,7 +3024,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &136 !ruby/object:Dato::Local::Item
+      - &140 !ruby/object:Dato::Local::Item
         entity: *65
         items_repo: *4
         item_type: *41
@@ -2980,7 +3035,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &137 !ruby/object:Dato::Local::Item
+      - &141 !ruby/object:Dato::Local::Item
         entity: *66
         items_repo: *4
         item_type: *41
@@ -2991,7 +3046,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &138 !ruby/object:Dato::Local::Item
+      - &142 !ruby/object:Dato::Local::Item
         entity: *67
         items_repo: *4
         item_type: *41
@@ -3002,7 +3057,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *45
         - *46
         - *47
-      - &139 !ruby/object:Dato::Local::Item
+      - &143 !ruby/object:Dato::Local::Item
         entity: *68
         items_repo: *4
         item_type: *41
@@ -3014,7 +3069,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *46
         - *47
       :albums: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &140 !ruby/object:Dato::Local::Item
+      - &98 !ruby/object:Dato::Local::Item
         entity: *69
         items_repo: *4
         item_type: *70
@@ -3025,9 +3080,8 @@ album: &77 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      - *77
-      - &141 !ruby/object:Dato::Local::Item
-        entity: *78
+      - &144 !ruby/object:Dato::Local::Item
+        entity: *77
         items_repo: *4
         item_type: *70
         fields:
@@ -3037,7 +3091,8 @@ album: &77 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      - &142 !ruby/object:Dato::Local::Item
+      - *78
+      - &145 !ruby/object:Dato::Local::Item
         entity: *79
         items_repo: *4
         item_type: *70
@@ -3048,7 +3103,7 @@ album: &77 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      - &143 !ruby/object:Dato::Local::Item
+      - &146 !ruby/object:Dato::Local::Item
         entity: *80
         items_repo: *4
         item_type: *70
@@ -3059,27 +3114,23 @@ album: &77 !ruby/object:Dato::Local::Item
         - *74
         - *75
         - *76
-      :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &144 !ruby/object:Dato::Local::Item
+      - &147 !ruby/object:Dato::Local::Item
         entity: *81
         items_repo: *4
-        item_type: *82
+        item_type: *70
         fields:
-        - *83
-        - *84
-        - *85
-        - *86
-        - *87
-        - *88
-        - *89
-        - *90
-        - *91
-      - &145 !ruby/object:Dato::Local::Item
-        entity: *92
+        - *71
+        - *72
+        - *73
+        - *74
+        - *75
+        - *76
+      :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
+      - &99 !ruby/object:Dato::Local::Item
+        entity: *82
         items_repo: *4
-        item_type: *82
+        item_type: *83
         fields:
-        - *83
         - *84
         - *85
         - *86
@@ -3088,12 +3139,12 @@ album: &77 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &146 !ruby/object:Dato::Local::Item
+        - *92
+      - &148 !ruby/object:Dato::Local::Item
         entity: *93
         items_repo: *4
-        item_type: *82
+        item_type: *83
         fields:
-        - *83
         - *84
         - *85
         - *86
@@ -3102,12 +3153,12 @@ album: &77 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &147 !ruby/object:Dato::Local::Item
+        - *92
+      - &149 !ruby/object:Dato::Local::Item
         entity: *94
         items_repo: *4
-        item_type: *82
+        item_type: *83
         fields:
-        - *83
         - *84
         - *85
         - *86
@@ -3116,12 +3167,12 @@ album: &77 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
-      - &148 !ruby/object:Dato::Local::Item
+        - *92
+      - &150 !ruby/object:Dato::Local::Item
         entity: *95
         items_repo: *4
-        item_type: *82
+        item_type: *83
         fields:
-        - *83
         - *84
         - *85
         - *86
@@ -3130,61 +3181,92 @@ album: &77 !ruby/object:Dato::Local::Item
         - *89
         - *90
         - *91
+        - *92
+      - &151 !ruby/object:Dato::Local::Item
+        entity: *96
+        items_repo: *4
+        item_type: *83
+        fields:
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+        - *90
+        - *91
+        - *92
+      - &152 !ruby/object:Dato::Local::Item
+        entity: *97
+        items_repo: *4
+        item_type: *83
+        fields:
+        - *84
+        - *85
+        - *86
+        - *87
+        - *88
+        - *89
+        - *90
+        - *91
+        - *92
     items_by_id:
-      '20602': *96
-      '21227': *97
-      '21226': *98
-      '20808': *99
-      '21070': *100
-      '21069': *101
-      '21068': *102
-      '20618': *103
-      '20617': *104
-      '20616': *105
-      '20613': *106
-      '20612': *107
-      '20611': *108
-      '20610': *109
-      '20609': *110
-      '20608': *111
-      '20607': *112
-      '20606': *113
-      '20605': *114
-      '20604': *115
-      '20603': *116
-      '20601': *117
-      '20600': *118
-      '20599': *119
-      '20598': *120
-      '20597': *121
-      '20596': *122
-      '20595': *123
-      '20594': *124
-      '20593': *125
-      '20592': *126
-      '20590': *127
-      '20589': *128
-      '20588': *129
-      '20587': *130
-      '20586': *131
-      '20585': *132
-      '20584': *133
-      '20583': *134
-      '20582': *135
-      '20581': *136
-      '20580': *137
-      '20579': *138
-      '20578': *139
-      '20577': *140
-      '20576': *77
-      '20575': *141
-      '20574': *142
-      '20573': *143
-      '20563': *144
-      '20562': *145
-      '18356': *146
-      '20561': *147
-      '18354': *148
+      '23947': *98
+      '23934': *99
+      '20602': *100
+      '21227': *101
+      '21226': *102
+      '20808': *103
+      '21070': *104
+      '21069': *105
+      '21068': *106
+      '20618': *107
+      '20617': *108
+      '20616': *109
+      '20613': *110
+      '20612': *111
+      '20611': *112
+      '20610': *113
+      '20609': *114
+      '20608': *115
+      '20607': *116
+      '20606': *117
+      '20605': *118
+      '20604': *119
+      '20603': *120
+      '20601': *121
+      '20600': *122
+      '20599': *123
+      '20598': *124
+      '20597': *125
+      '20596': *126
+      '20595': *127
+      '20594': *128
+      '20593': *129
+      '20592': *130
+      '20590': *131
+      '20589': *132
+      '20588': *133
+      '20587': *134
+      '20586': *135
+      '20585': *136
+      '20584': *137
+      '20583': *138
+      '20582': *139
+      '20581': *140
+      '20580': *141
+      '20579': *142
+      '20578': *143
+      '20577': *144
+      '20576': *78
+      '20575': *145
+      '20574': *146
+      '20573': *147
+      '20563': *148
+      '20562': *149
+      '18356': *150
+      '20561': *151
+      '18354': *152
     item_type_methods:
       *5:
       - :contacto
@@ -3201,7 +3283,7 @@ album: &77 !ruby/object:Dato::Local::Item
       *70:
       - :albums
       - false
-      *82:
+      *83:
       - :artistas
       - false
   item_type: *70
@@ -3218,7 +3300,6 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/oKa9oPCz914/hqdefault.jpg
 permalink: "/videos/detras-de-las-canciones-el-sonido-de-sus-suenos"
 menuitem: Vídeos
-otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007f96dd051678>
+#<Dato::Local::FieldType::Video:0x007fb647699470>

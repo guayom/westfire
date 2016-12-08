@@ -5,16 +5,20 @@ layout: default
   <div class="page-header">
       <h1 class="inner-section-title">{{page.title}}</h1>
   </div>
+
   {{page.video | replace: "http://", "https://"}}
+
+  <!--
   {% assign more-videos = site.videos | where: "artista", page.artista %}
-  {% if page.artista != "nil" %}
+  {% if page.artista != "nil" and more-videos.size > 1 %}
     <h2>Más videos de {{page.artista}}</h2>
     <ul>
       {% for video in more-videos %}
-        {% unless page.artista == video.artista %}
+        {% unless page.title == video.titulo %}
           <li>{{video.title}}</li>
         {% endunless %}
       {% endfor %}
     </ul>
   {% endif %}
+-->
 </div>
