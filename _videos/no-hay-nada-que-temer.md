@@ -3218,6 +3218,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/giBMM70DywQ/hqdefault.jpg
 permalink: "/videos/no-hay-nada-que-temer"
 menuitem: Vídeos
+otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007fcb6f646648>
+#<Dato::Local::FieldType::Video:0x007f96dcf0cb00>

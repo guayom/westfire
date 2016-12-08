@@ -69,8 +69,10 @@ directory "_videos/" do
   dato.videos.each do |video|
     if video.artista.nil?
       artist_name = "nil"
+      other_videos = nil
     else
       artist_name = video.artista.nombre
+      other_videos = dato.videos.select{ |item| artist_name == item.artista.nombre }
     end
     create_post "#{video.titulo.parameterize}.md" do
       frontmatter :yaml, {
@@ -82,7 +84,8 @@ directory "_videos/" do
         layout: "video",
         thumbnail: video.video.thumbnail_url,
         permalink: "/videos/#{video.titulo.parameterize}",
-        menuitem: "Vídeos"
+        menuitem: "Vídeos",
+        otros_videos: artist_videos
       }
 
       content video.video

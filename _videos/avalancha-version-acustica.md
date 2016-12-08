@@ -3218,6 +3218,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/KfcU26GiARg/hqdefault.jpg
 permalink: "/videos/avalancha-version-acustica"
 menuitem: Vídeos
+otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007fcb6f675998>
+#<Dato::Local::FieldType::Video:0x007f96dcfb6998>

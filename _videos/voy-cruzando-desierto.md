@@ -3218,6 +3218,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/4SN9YwtnBRc/hqdefault.jpg
 permalink: "/videos/voy-cruzando-desierto"
 menuitem: Vídeos
+otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007fcb6f65d3e8>
+#<Dato::Local::FieldType::Video:0x007f96dcf651b0>

@@ -3217,6 +3217,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/BMA9r74Gd6w/hqdefault.jpg
 permalink: "/videos/buenos-regalos"
 menuitem: Vídeos
+otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007fcb6f60fa58>
+#<Dato::Local::FieldType::Video:0x007f96dce4dfc0>

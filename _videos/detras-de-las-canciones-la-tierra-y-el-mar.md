@@ -3218,6 +3218,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/wKgqXRxAJQE/hqdefault.jpg
 permalink: "/videos/detras-de-las-canciones-la-tierra-y-el-mar"
 menuitem: Vídeos
+otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007fcb6f68d070>
+#<Dato::Local::FieldType::Video:0x007f96db0173d0>

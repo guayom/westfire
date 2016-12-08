@@ -3218,6 +3218,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/aKhX7pPscJo/hqdefault.jpg
 permalink: "/videos/todo-va-a-estar-bien-version-acustica"
 menuitem: Vídeos
+otros_albums: []
 ---
 
-#<Dato::Local::FieldType::Video:0x007fcb6f62c6d0>
+#<Dato::Local::FieldType::Video:0x007f96dcebd4d8>
