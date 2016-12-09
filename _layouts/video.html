@@ -8,17 +8,34 @@ layout: default
 
   {{page.video | replace: "http://", "https://"}}
 
-  <!--
-  {% assign more-videos = site.videos | where: "artista", page.artista %}
-  {% if page.artista != "nil" and more-videos.size > 1 %}
+  {% assign videos = "" | split:"|"  %}
+
+  {% assign artist_videos = site.videos | where: "artista", page.artista %}
+
+  {% for other_video in artist_videos  %}
+    {% unless other_video.title == page.title %}
+      {% assign videos = videos | push: other_video.title %}
+    {% endunless %}
+  {% endfor %}
+
+  {% if videos.size > 0  %}
     <h2>Más videos de {{page.artista}}</h2>
-    <ul>
-      {% for video in more-videos %}
-        {% unless page.title == video.titulo %}
-          <li>{{video.title}}</li>
-        {% endunless %}
-      {% endfor %}
+    <ul class="list-unstyled">
+      <div class="row">
+        {% for video in site.videos %}
+          {% if videos contains video.title %}
+            <div class="span3">
+              <li>
+                <a href="{{video.url}}" class="text-center">
+                  <img class="img-responsive" src="{{video.thumbnail}}" alt="{{video.title}}"/>
+                  <p>{{video.title}}</p>
+                </a>
+              </li>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
     </ul>
   {% endif %}
--->
+
 </div>

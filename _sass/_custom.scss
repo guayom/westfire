@@ -20,6 +20,11 @@
     display: inline-block;
   }
 }
+.list-unstyled{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 .artist-links{
   text-align: center;
   font-size: 3em;

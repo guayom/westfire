@@ -37,3 +37,5 @@ gems:
 
 sass:
     style: compressed
+
+array: []
