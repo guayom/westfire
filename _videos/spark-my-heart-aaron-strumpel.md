@@ -9,6 +9,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/pyZxQk9kenE/hqdefault.jpg
 permalink: "/videos/spark-my-heart-aaron-strumpel"
 menuitem: Vídeos
+page_img: https://i.ytimg.com/vi/pyZxQk9kenE/hqdefault.jpg
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb64770b750>
+#<Dato::Local::FieldType::Video:0x007f9c61e07e50>

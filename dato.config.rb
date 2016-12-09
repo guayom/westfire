@@ -14,7 +14,9 @@ directory "_artistas/" do
         layout: "artist",
         permalink: "/#{artist.nombre.parameterize}/",
         thumbnail: artist.imagen.url(w: 370),
-        menuitem: "Artistas"
+        menuitem: "Artistas",
+        page_img: artist.imagen.url,
+        excerpt: artist.descripcion
       }
 
       content artist.descripcion
@@ -36,7 +38,8 @@ directory "_albums/" do
         permalink: "/#{album.artista.nombre.parameterize}/#{album.titulo.parameterize}/",
         thumbnail: album.cover.url(w: 370),
         thumbnail_canciones: album.cover.url(w: 285),
-        menuitem: "Álbums"
+        menuitem: "Álbums",
+        page_img: album.cover.url
       }
 
       content album.descripcion
@@ -59,7 +62,8 @@ directory "_canciones/" do
         cancion_layout: true,
         menuitem: "Canciones",
         layout: "cancion",
-        permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.album.titulo.parameterize}/#{cancion.titulo.parameterize}"
+        permalink: "/#{cancion.artista.nombre.parameterize}/#{cancion.album.titulo.parameterize}/#{cancion.titulo.parameterize}",
+        page_img: cancion.album.cover.url(w: 1000)
       }
     end
   end
@@ -86,6 +90,7 @@ directory "_videos/" do
         thumbnail: video.video.thumbnail_url,
         permalink: "/videos/#{video.titulo.parameterize}",
         menuitem: "Vídeos",
+        page_img: video.video.thumbnail_url
         #otros_videos: other_videos
       }
 

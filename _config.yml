@@ -1,9 +1,7 @@
 title: Westfire Records
 email: info@westfirerecords.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Somos una familia de músicos y artistas de la Viña Escazú, Costa Rica. Expresamos la grandeza y el amor de Dios mediante música y otras expresiones artísticas
+default_img: https://dato-images.imgix.net/489/1481269466-1479049450-BannerWF.jpg?fit=crop&w=1000
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.westfirerecords.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb

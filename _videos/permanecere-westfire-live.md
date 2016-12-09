@@ -9,6 +9,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/vzgTrLjZ8sM/hqdefault.jpg
 permalink: "/videos/permanecere-westfire-live"
 menuitem: Vídeos
+page_img: https://i.ytimg.com/vi/vzgTrLjZ8sM/hqdefault.jpg
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb6476dba78>
+#<Dato::Local::FieldType::Video:0x007f9c61dbca90>

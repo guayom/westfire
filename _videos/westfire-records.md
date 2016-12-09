@@ -9,6 +9,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/MNrg8Y1lP4c/hqdefault.jpg
 permalink: "/videos/westfire-records"
 menuitem: Vídeos
+page_img: https://i.ytimg.com/vi/MNrg8Y1lP4c/hqdefault.jpg
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb644f0c7e0>
+#<Dato::Local::FieldType::Video:0x007f9c61d35518>

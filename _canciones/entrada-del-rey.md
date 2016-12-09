@@ -52,7 +52,22 @@ artista: &94 !ruby/object:Dato::Local::Item
                 theme_hue: 190
                 domain: admin.westfirerecords.com
                 internal_domain: westfire.admin.datocms.com
-                global_seo: 
+                global_seo: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  site_name: Westfire Records
+                  title_suffix: 
+                  twitter_account: 
+                  facebook_page_url: 
+                  fallback_seo: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    title: Westfire Records
+                    description: Somos una familia de músicos y artistas de la Viña
+                      Escazú, Costa Rica. Expresamos la grandeza y el amor de Dios
+                      mediante música y otras expresiones artísticas
+                    image: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                      path: "/489/1481269466-1479049450-BannerWF.jpg"
+                      width: 1500
+                      height: 558
+                      format: jpg
+                      size: 77051
                 favicon: 
                 no_index: false
                 ssg: jekyll
@@ -968,6 +983,22 @@ artista: &94 !ruby/object:Dato::Local::Item
                     type: item_type
             data_source: *1
         item:
+          '20808': &3 !ruby/object:Dato::Local::JsonApiEntity
+            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+              id: '20808'
+              type: item
+              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                updated_at: '2016-12-08T20:11:02.566Z'
+                is_valid: true
+                telefono: "(506) 88985948"
+                email: info@westfirerecords.com
+                direccion: <p "="">Escazú, San José, Costa Rica.</p>
+              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+                    id: '3155'
+                    type: item_type
+            data_source: *1
           '23947': &69 !ruby/object:Dato::Local::JsonApiEntity
             payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
               id: '23947'
@@ -1094,22 +1125,6 @@ artista: &94 !ruby/object:Dato::Local::Item
                 item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                   data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
                     id: '2901'
-                    type: item_type
-            data_source: *1
-          '20808': &3 !ruby/object:Dato::Local::JsonApiEntity
-            payload: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-              id: '20808'
-              type: item
-              attributes: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                updated_at: '2016-11-13T17:08:05.277Z'
-                is_valid: true
-                telefono: '22334466'
-                email: info@westfirerecords.com
-                direccion: "<p><em></em>Lorem Ipsum</p><p>Lorem</p>"
-              relationships: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                item_type: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                  data: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-                    id: '3155'
                     type: item_type
             data_source: *1
           '21070': &37 !ruby/object:Dato::Local::JsonApiEntity
@@ -2624,7 +2639,7 @@ artista: &94 !ruby/object:Dato::Local::Item
   items_repo: &4 !ruby/object:Dato::Local::ItemsRepo
     entities_repo: *1
     collections_by_type:
-      :contacto: &103 !ruby/object:Dato::Local::Item
+      :contacto: &98 !ruby/object:Dato::Local::Item
         entity: *3
         items_repo: *4
         item_type: *5
@@ -2633,7 +2648,7 @@ artista: &94 !ruby/object:Dato::Local::Item
         - *7
         - *8
       :videos: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &100 !ruby/object:Dato::Local::Item
+      - &101 !ruby/object:Dato::Local::Item
         entity: *9
         items_repo: *4
         item_type: *10
@@ -2642,7 +2657,7 @@ artista: &94 !ruby/object:Dato::Local::Item
         - *12
         - *13
         - *14
-      - &101 !ruby/object:Dato::Local::Item
+      - &102 !ruby/object:Dato::Local::Item
         entity: *15
         items_repo: *4
         item_type: *10
@@ -2787,7 +2802,7 @@ artista: &94 !ruby/object:Dato::Local::Item
         - *13
         - *14
       :slides: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &102 !ruby/object:Dato::Local::Item
+      - &103 !ruby/object:Dato::Local::Item
         entity: *31
         items_repo: *4
         item_type: *32
@@ -3067,7 +3082,7 @@ artista: &94 !ruby/object:Dato::Local::Item
         - *46
         - *47
       :albums: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &98 !ruby/object:Dato::Local::Item
+      - &99 !ruby/object:Dato::Local::Item
         entity: *69
         items_repo: *4
         item_type: *70
@@ -3134,7 +3149,7 @@ artista: &94 !ruby/object:Dato::Local::Item
         - *75
         - *76
       :artistas: !ruby/array:Dato::Local::ItemsRepo::ItemCollection
-      - &99 !ruby/object:Dato::Local::Item
+      - &100 !ruby/object:Dato::Local::Item
         entity: *82
         items_repo: *4
         item_type: *83
@@ -3206,12 +3221,12 @@ artista: &94 !ruby/object:Dato::Local::Item
         - *91
         - *92
     items_by_id:
-      '23947': *98
-      '23934': *99
-      '20602': *100
-      '21227': *101
-      '21226': *102
-      '20808': *103
+      '20808': *98
+      '23947': *99
+      '23934': *100
+      '20602': *101
+      '21227': *102
+      '21226': *103
       '21070': *104
       '21069': *105
       '21068': *106
@@ -3309,5 +3324,6 @@ cancion_layout: true
 menuitem: Canciones
 layout: cancion
 permalink: "/geancarlo-calderon/identidad/entrada-del-rey"
+page_img: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=1000
 ---
 

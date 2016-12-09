@@ -12,5 +12,7 @@ layout: artist
 permalink: "/la-vina-escazu/"
 thumbnail: https://dato-images.imgix.net/489/1481048484-EEMFBCover.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
 menuitem: Artistas
+page_img: https://dato-images.imgix.net/489/1481048484-EEMFBCover.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+excerpt: ''
 ---
 

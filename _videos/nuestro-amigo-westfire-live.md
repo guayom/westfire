@@ -9,6 +9,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/GyiImDQzFhU/hqdefault.jpg
 permalink: "/videos/nuestro-amigo-westfire-live"
 menuitem: Vídeos
+page_img: https://i.ytimg.com/vi/GyiImDQzFhU/hqdefault.jpg
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb644f1fd68>
+#<Dato::Local::FieldType::Video:0x007f9c61d66820>

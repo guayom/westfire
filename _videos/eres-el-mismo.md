@@ -9,6 +9,7 @@ layout: video
 thumbnail: https://i.ytimg.com/vi/mQrTJdHR9ks/hqdefault.jpg
 permalink: "/videos/eres-el-mismo"
 menuitem: Vídeos
+page_img: https://i.ytimg.com/vi/mQrTJdHR9ks/hqdefault.jpg
 ---
 
-#<Dato::Local::FieldType::Video:0x007fb6476f33d0>
+#<Dato::Local::FieldType::Video:0x007f9c61dd4d48>

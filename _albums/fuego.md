@@ -10,6 +10,7 @@ permalink: "/fuego/fuego/"
 thumbnail: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
 thumbnail_canciones: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
 menuitem: Álbums
+page_img: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 ---
 
 <p>Es un disco lleno de paz, alegria e intesidad, son canciones que han llenado de fé los corazones de los que las han escuchado. El la idea fue la de lograr capturar la escencia de un momento de adoración espontaneo de nuestra comunidad.</p>
