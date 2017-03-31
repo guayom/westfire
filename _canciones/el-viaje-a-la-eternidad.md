@@ -3222,7 +3222,7 @@ lyrics: "<p><span>Quiero llegar a ver tu rostro</span></p><p>Ver tu amor llenar 
   oscuridad</p><p>Estás brillando, estás brillando iluminando el día</p>"
 chords: 
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion

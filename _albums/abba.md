@@ -1,13 +1,13 @@
 ---
 title: Abba
 artista: Fuego
-cover: https://dato-images.imgix.net/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+cover: https://www.datocms-assets.com/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 itunes: https://itunes.apple.com/us/album/abba/id881951179
 bandcamp: http://fuegovina.bandcamp.com/album/abba
 layout: album
 permalink: "/fuego/abba/"
-thumbnail: https://dato-images.imgix.net/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
-thumbnail_canciones: https://dato-images.imgix.net/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
+thumbnail: https://www.datocms-assets.com/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
+thumbnail_canciones: https://www.datocms-assets.com/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
 menuitem: Álbums
 ---
 

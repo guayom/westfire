@@ -3226,7 +3226,7 @@ lyrics: "<p>Se que la tormenta ya va a pasar</p><p>Se que la marea nos va a llev
   con los soles y el mar</span></p>"
 chords: 
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion

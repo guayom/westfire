@@ -1,6 +1,6 @@
 ---
 title: Rodri Montenegro
-imagen: https://dato-images.imgix.net/489/1478780422-Rodri.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+imagen: https://www.datocms-assets.com/489/1478780422-Rodri.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 email: westfirerecords@gmail.com
 instagram: https://instagram.com/rodrimonte92/
 facebook: https://www.facebook.com/rodrigo.montenegro.18?fref=ts
@@ -9,7 +9,7 @@ youtube:
 bandcamp: 
 layout: artist
 permalink: "/rodri-montenegro/"
-thumbnail: https://dato-images.imgix.net/489/1478780422-Rodri.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
+thumbnail: https://www.datocms-assets.com/489/1478780422-Rodri.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
 menuitem: Artistas
 ---
 

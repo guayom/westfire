@@ -3225,7 +3225,7 @@ chords: "<p><span>Intro: Am  Cadd11  C</span></p><p> Am              Cadd11    C
   en mí una llama que nunca se va a apagar </p><p>Puente:</p><p>F                                        C</p><p>Como
   una avalancha, como un estruendo </p>"
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion

@@ -1,13 +1,13 @@
 ---
 title: Identidad
 artista: Geancarlo Calderón
-cover: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+cover: https://www.datocms-assets.com/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 itunes: 
 bandcamp: https://geancarlocalderon.bandcamp.com/releases
 layout: album
 permalink: "/geancarlo-calderon/identidad/"
-thumbnail: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
-thumbnail_canciones: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
+thumbnail: https://www.datocms-assets.com/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
+thumbnail_canciones: https://www.datocms-assets.com/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
 menuitem: Álbums
 ---
 

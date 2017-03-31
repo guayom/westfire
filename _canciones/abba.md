@@ -3229,7 +3229,7 @@ chords: "<p><span>Intro: G Cadd9 G Cadd9</span></p><p>G               Cadd9     
   en la oscuridad</p><p>G                                  Cadd9    </p><p>Haces temblar
   las tinieblas</p><p>       G          Cadd9</p><p>Y todo mal </p>"
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791464-Portadas_westfire_Abba.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion

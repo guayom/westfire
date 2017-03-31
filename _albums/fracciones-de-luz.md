@@ -1,13 +1,13 @@
 ---
 title: 'Fracciones de Luz '
 artista: Ale Fdz
-cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+cover: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 itunes: 
 bandcamp: http://alefdzmusic.bandcamp.com/album/fracciones-de-luz-2
 layout: album
 permalink: "/ale-fdz/fracciones-de-luz/"
-thumbnail: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
-thumbnail_canciones: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
+thumbnail: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
+thumbnail_canciones: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
 menuitem: Álbums
 ---
 
