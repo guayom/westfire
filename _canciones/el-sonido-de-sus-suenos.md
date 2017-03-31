@@ -3326,7 +3326,7 @@ lyrics: "<p><span>No se compara con nada en este mundo</span></p><p><span></span
   canción</p>"
 chords: 
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion

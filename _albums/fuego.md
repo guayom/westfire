@@ -2,13 +2,13 @@
 title: Fuego
 position: 1
 artista: Fuego
-cover: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+cover: https://www.datocms-assets.com/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 itunes: https://itunes.apple.com/us/album/fuego/id881950058
 bandcamp: http://fuegovina.bandcamp.com/album/fuego
 layout: album
 permalink: "/fuego/fuego/"
-thumbnail: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
-thumbnail_canciones: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
+thumbnail: https://www.datocms-assets.com/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
+thumbnail_canciones: https://www.datocms-assets.com/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=285
 menuitem: Álbums
 page_img: https://dato-images.imgix.net/489/1478791362-Portadas_westfire_Fuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 ---

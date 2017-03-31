@@ -3321,7 +3321,7 @@ lyrics: "<p><span>La tierra paró de temblar</span></p><p>Allá en la montaña b
   en tus brazos</p>"
 chords: 
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791539-PortadaItunesSpotify.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion

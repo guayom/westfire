@@ -1,7 +1,11 @@
 ---
 title: Fuego
+<<<<<<< HEAD
 position: 2
 imagen: https://dato-images.imgix.net/489/1478088779-BannerFuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+=======
+imagen: https://www.datocms-assets.com/489/1478088779-BannerFuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+>>>>>>> master
 email: 
 instagram: http://instagram.com/fuegovina
 facebook: http://www.facebook.com/fuegovina
@@ -10,7 +14,7 @@ youtube: https://www.youtube.com/channel/UC46HZp_3FyOHMr_bNIfnEsQ
 bandcamp: http://fuegovina.bandcamp.com/
 layout: artist
 permalink: "/fuego/"
-thumbnail: https://dato-images.imgix.net/489/1478088779-BannerFuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
+thumbnail: https://www.datocms-assets.com/489/1478088779-BannerFuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=370
 menuitem: Artistas
 page_img: https://dato-images.imgix.net/489/1478088779-BannerFuego.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 excerpt: "<p><span>Fuego es un colectivo de personas que se reúnen los lunes por las

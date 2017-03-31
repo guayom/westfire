@@ -3320,7 +3320,7 @@ chords: "<p><span>Am7             D</span></p><p>Yo soy, quién tu dices que soy
   presente y mi futuro en tus manos están</p><p>Eres quien tu dices ser, eres un buen
   Padre</p>"
 descargable: 
-album_cover: https://dato-images.imgix.net/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
+album_cover: https://www.datocms-assets.com/489/1478791597-Identidad_1463x1463.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=150
 cancion_layout: true
 menuitem: Canciones
 layout: cancion
