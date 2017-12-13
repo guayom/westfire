@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background: $naranja;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  display: flex;
+  justify-content: center;     // vertical align
+  align-items: center;         // horizontal align
+
+  padding: 0;
+  margin: 0;
+}
+
+#wrapper {
+  display: table;
+  height: 100vh;
+  width: 100%;
+}
+
+#cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.logo-menu {
+  width: 50%;
+  margin-bottom: 10%;
+}
